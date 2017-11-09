@@ -1,7 +1,9 @@
 'use strict';
+require('dotenv').config();
 const Airtable = require('airtable');
-const base = new Airtable({ apiKey: process.env.API_KEY }).base('appsWmNYoIAPDCz8V');
+const base = new Airtable({ apiKey: process.env.AIRTABLE_API_KEY }).base(process.env.AIRTABLE_BASE_ID);
 const fs = require('fs');
+const listsDirectory = './_includes/lists/';
 
 async function run() {
   const categories = await (base('Categories').select().all());
@@ -63,7 +65,7 @@ function escapeRegExp(str) {
 }
 
 function saveToFile(filename, markdownArray) {
-  let path = "./results/" + filename;
+  let path = listsDirectory + filename;
 
   // Truncate the file
   if (fs.existsSync(path)) {

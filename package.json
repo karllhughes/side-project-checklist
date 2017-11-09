@@ -2,9 +2,11 @@
   "scripts": {
     "app:up": "docker run --name spc-static-site -d --rm -it -v $PWD:/usr/src/app -p 4000:4000 starefossen/github-pages",
     "app:down": "docker stop spc-static-site",
-    "generate:products": "node "
+    "gen:products": "node scripts/generate-products",
+    "gen:checklists": "node scripts/generate-checklists"
   },
   "dependencies": {
-    "airtable": "^0.5.0"
+    "airtable": "^0.5.0",
+    "dotenv": "^4.0.0"
   }
 }
