@@ -1,0 +1,35 @@
+---
+layout: default
+---
+
+<div class="blog_list">
+
+  {{ content }}
+
+  <ul class="post-archives">
+    {% for post in paginator.posts %}
+    {% capture post_lang %}{{ post.lang | default: site_lang }}{% endcapture %}
+    {% capture lang %}{% if post_lang != site_lang %}{{ post_lang }}{% endif %}{% endcapture %}
+
+    <li>
+      <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+      <h2>
+        <a class="post-link" href="{{ post.url | relative_url }}"{% if lang != empty %} lang="{{ lang }}"{% endif %}>{{ post.title | escape }}{% if post.external-url %} &rarr;{% endif %}</a>
+      </h2>
+
+      <div class="post-content">
+        {{ post.excerpt }}
+      </div>
+      {% if post.content contains site.excerpt_separator %}
+      <p class="post-continue">
+        <a href="{{ post.url | relative_url }}">Read on &rarr;</a>
+      </p>
+      {% endif %}
+    </li>
+    {% endfor %}
+  </ul>
+
+  {% include pagination.html %}
+
+</div>

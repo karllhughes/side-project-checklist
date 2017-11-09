@@ -1,1 +1,24 @@
+title: Side Project Checklist
+email: marketing@portablecto.com
+author: Karl Hughes
+description: > # this means to ignore newlines until "baseurl:"
+  A comprehensive, chronologically ordered checklist of marketing tactics and ideas you can try with
+  your next side project.
+baseurl: "/"
+url: "https://www.sideprojectchecklist.com"
+google_analytics: UA-19700764-11
+
+markdown: kramdown
 theme: jekyll-theme-cayman
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-paginate
+
+paginate: 10
+comments: false
+
+permalink: /:year/:title/
+paginate_path: /blog/:num/
