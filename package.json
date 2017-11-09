@@ -1,6 +1,10 @@
 {
   "scripts": {
     "app:up": "docker run --name spc-static-site -d --rm -it -v $PWD:/usr/src/app -p 4000:4000 starefossen/github-pages",
-    "app:down": "docker stop spc-static-site"
+    "app:down": "docker stop spc-static-site",
+    "generate:products": "node "
+  },
+  "dependencies": {
+    "airtable": "^0.5.0"
   }
 }
