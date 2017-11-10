@@ -1,0 +1,11 @@
+# If you want to link only specific pages in your header, add the path to the
+# pages in order as they should show up.
+main:
+  - title: "#Marketing"
+    url: /marketing-checklist/
+  - title: "#Sales"
+    url: /sales-checklist/
+  - title: "About"
+    url: /#about
+  - title: "Blog"
+    url: /blog/

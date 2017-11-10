@@ -79,3 +79,41 @@ a.vote-link:hover {
   color: grey;
   font-weight: bold;
 }
+
+.panel-wrapper:after {
+  content: "";
+  display: table;
+  clear: both;
+  margin-bottom: 2em;
+}
+.panel {
+  widtH: 49%;
+  float: left;
+  background: #e4e4e4;
+  overflow: hidden;
+  margin: 0.5em auto;
+  border-radius: 0.5em;
+  text-align: center;
+  h3, h3 a {
+    color: #fff;
+  }
+  h3 {
+    background: #2568ba;
+    font-size: 1em;
+    margin: 0;
+    padding: 1em;
+  }
+  &.second {
+    margin-left: 2%;
+  }
+  &.second h3, &.second h3 a {
+    background: #FF7533;
+  }
+  .container {
+    padding: 1em 1em 0;
+  }
+}
+.contributing {
+  margin-top: 2em;
+  color: #828282;
+}
