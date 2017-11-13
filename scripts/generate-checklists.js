@@ -4,24 +4,19 @@ const checklistPaths = [
   {
     origin: 'https://raw.githubusercontent.com/karllhughes/side-project-marketing/master/marketing-checklist.md',
     destination: './marketing-checklist.md',
+    title: 'Side Project Marketing Checklist',
+    permalink: '/marketing-checklist/',
   },
   {
     origin: 'https://raw.githubusercontent.com/karllhughes/side-project-sales/master/sales-checklist.md',
     destination: './sales-checklist.md',
+    title: 'Side Project Sales Checklist',
+    permalink: '/sales-checklist/',
   },
 ];
 
 function run(url, dest, cb) {
   const file = fs.createWriteStream(dest);
-  // Need to add header:
-  /*
-   ---
-   layout: checklist_page
-   title: The Side Project Marketing Checklist
-   permalink: /marketing-checklist/
-   ---
-   */
-
   http.get(url, function(response) {
     response.pipe(file);
     file.on('finish', function() {
