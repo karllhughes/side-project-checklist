@@ -7,27 +7,34 @@ layout: default
     <h1 class="post-title">{{ page.title | escape }}</h1>
   </header>
 
-  {% include github_cta.html %}
+  {% if page.title == 'The Side Project Marketing Checklist' %}
+    {% include github_marketing_cta.html %}
+  {% endif %}
+  {% if page.title == 'The Side Project Sales Checklist' %}
+    {% include github_sales_cta.html %}
+  {% endif %}
+
+  <p style="font-style: italic; color: #999;" class="no-print">
+    <a href="#print-view">Scroll to the bottom</a> to download the raw markdown or printable version of this list.
+  </p>
 
   <div class="post-content">
     {{ content }}
   </div>
 
-  {% if site.comments != false and page.comments != false %}
-  <div class="post-comments">
-    {% include custom_comments_provider.html %}
-  </div>
-  {% endif %}
-
 </article>
 
-<p style="text-align: center;">
+<p id="print-view" style="text-align: center;">
   <a href="#" class="btn btn-large" onclick="window.print();">Print Checklist</a>
-  <a href="https://raw.githubusercontent.com/karllhughes/side-project-marketing/master/marketing-checklist.md" download="marketing-checklist.md" class="btn btn-large" style="background: #999;">Download Markdown</a>
+  {% if page.title == 'The Side Project Marketing Checklist' %}
+    <a href="https://raw.githubusercontent.com/karllhughes/side-project-marketing/master/marketing-checklist.md" download="marketing-checklist.md" class="btn btn-large" style="background: #999;">Download Markdown</a>
+  {% endif %}
+  {% if page.title == 'The Side Project Sales Checklist' %}
+    <a href="https://raw.githubusercontent.com/karllhughes/side-project-sales/master/sales-checklist.md" download="sales-checklist.md" class="btn btn-large" style="background: #999;">Download Markdown</a>
+  {% endif %}
 </p>
 
 {% include signup_1.html %}
-
 
 <!-- 
   using javascript to prevent printing these elements lets us only target the elements on this page and not affect any other layout or include

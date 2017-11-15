@@ -4,24 +4,15 @@ title: "Contributing"
 permalink: /contributing/
 ---
 
-As with any open source project, we welcome contributors! Submit an [issue](https://github.com/karllhughes/side-project-marketing/issues) or [pull request](https://github.com/karllhughes/side-project-marketing/pulls) with your improvements or suggestions. All contributors will be fully credited.
+As with any open source project, we welcome contributors! Submit an issue or pull request with your improvements or suggestions to the appropriate repository listed here:
 
-For more information on what kind of contributions you can make, check out the [Making a Contribution blog post](/2017/making-a-contribution/).
+- [Marketing Checklist](https://github.com/karllhughes/side-project-marketing)
+- [Sales Checklist](https://github.com/karllhughes/side-project-sales)
+- [Static Site](https://github.com/karllhughes/side-project-checklist)
 
-### Contributors
+All contributors are expected to adhere to the Code of Conduct listed below. For more information on contributions, check out the [Making a Contribution blog post](/2017/making-a-contribution/).
 
-Submit a PR to get your name and link listed here!
-
-- [Karl Hughes](https://www.karllhughes.com/)
-- [Steve Sanders](http://stevendsanders.com/)
-- [Jake Lumetta](http://jakelumetta.com)
-- [Justin Duke](http://jmduke.com)
-- [Alex Pankratov](http://swapped.cc)
-- [John Rake](http://www.johnmrake.com)
-- [Hengwoon](https://github.com/hengwoon)
-- [Andy Sparks](https://github.com/AndySparks)
-
-### Code of Conduct
+## Code of Conduct
 
 #### Our Pledge
 

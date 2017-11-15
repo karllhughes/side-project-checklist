@@ -6,26 +6,7 @@ layout: default
 
   {{ content }}
 
-  <div class="panel-wrapper">
-    <div class='panel'>
-      <h3>
-        <a href="/marketing-checklist">Build a Marketing Checklist</a>
-      </h3>
-      <div class='container'>
-        <p>Give your side project a long-term plan for user acquisition and growth that won't cost you a lot of time or money.</p>
-        <p><a href="/marketing-checklist" class="btn btn-large">Get Started!</a></p>
-      </div>
-    </div>
-    <div class='panel second'>
-      <h3>
-        <a href="/sales-checklist">Build a Sales Checklist</a>
-      </h3>
-      <div class='container'>
-        <p>Create a simple, repeatable sales plan to help you get your first customers without being "that guy".</p>
-        <p><a href="/sales-checklist" class="btn btn-large">Get Started!</a></p>
-      </div>
-    </div>
-  </div>
+  {% include build_checklists.html %}
 
   <h1 id="about">Side Project Marketing & Sales Checklists</h1>
 

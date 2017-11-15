@@ -1,4 +1,3 @@
-
 $(document).ready(function() {
   // Set the user's email if they've given it.
   if (Cookies.get('spc_user_email')) {
