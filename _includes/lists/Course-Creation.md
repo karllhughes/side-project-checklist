@@ -1,4 +1,4 @@
-- <a href="#vote-form" class="vote-link" rel="modal:open" id="Thinkific">&#x25B2; <span class="count">1</span></a> &nbsp;**[Thinkific](https://www.thinkific.com/)** <span style="color: grey;">($0)</span> - Create, market, and sell courses online from your own website.
+- <a href="#vote-form" class="vote-link" rel="modal:open" id="Thinkific">&#x25B2; <span class="count">12</span></a> &nbsp;**[Thinkific](https://www.thinkific.com/)** <span style="color: grey;">($0)</span> - Create, market, and sell courses online from your own website.
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="Adapt_Learning">&#x25B2; <span class="count">0</span></a> &nbsp;**[Adapt Learning](https://www.adaptlearning.org/)** <span style="color: grey;">($0)</span> -  This free LMS (or “learning management system”) allows you to create video courses and distribute them on your own site using the open source Adapt Framework.
 
