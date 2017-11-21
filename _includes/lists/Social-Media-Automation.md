@@ -16,6 +16,8 @@
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="PowerPost">&#x25B2; <span class="count">0</span></a> &nbsp;**[PowerPost](https://www.powerpost.digital/)**  - Scheduling and planning blog posts, sharing them to all your social channels, and keeping everything organized with a team is challenging. PowerPost makes it much easier.
 
+- <a href="#vote-form" class="vote-link" rel="modal:open" id="SocialSprinters">&#x25B2; <span class="count">0</span></a> &nbsp;**[SocialSprinters](http://www.shareasale.com/r.cfm?b=1069675&u=1653894&m=74517)** <span style="color: grey;">($49)</span> - Add professional applications to your Facebook Page and start collecting new leads, sales or just entertain your customers. Everything by yourself in a few minutes.
+
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="Sprout_Social">&#x25B2; <span class="count">0</span></a> &nbsp;**[Sprout Social](https://sproutsocial.com/)** <span style="color: grey;">($99)</span> - At $99/month, Sprout Social may be a bit pricey for most side projects, but it is one of the most powerful social media management and automation platforms available.
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="TweetDeck">&#x25B2; <span class="count">0</span></a> &nbsp;**[TweetDeck](https://tweetdeck.twitter.com/)** <span style="color: grey;">($0)</span> - Twitter bought Tweetdeck as a way to help users with multiple accounts stay organized. Tweetdeck is great if you want to keep a personal and business Twitter, but you can also use Tweetdeck to schedule updates.

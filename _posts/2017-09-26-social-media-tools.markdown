@@ -17,7 +17,13 @@ All that said, you don't want your social media channels to be boring, spammy, o
  
 By automating your social media efforts, you can queue up posts for the month ahead, get suggestions for new stories to post, or keep an eye on what your fans or followers are saying. The tools below help with one or all of those things, so if you're getting started on social media, I highly recommend making your life easier by automating much of it.
 
-{% include featured-banner.html %}
+<div class="featured">
+  <h2>Featured</h2>
+  <a href="http://www.shareasale.com/r.cfm?b=1069675&u=1653894&m=74517"><img src="https://i.imgur.com/lLYs2rD.jpg?2" alt="SocialSprinters"></a>
+  <p>
+    <strong><a href="http://www.shareasale.com/r.cfm?b=1069675&u=1653894&m=74517">SocialSprinters</a></strong> - Add professional applications to your Facebook Page and start collecting new leads, sales or just entertain your customers. Everything by yourself in a few minutes.
+  </p>
+</div>
 
 ### All Social Media Automation Tools
 

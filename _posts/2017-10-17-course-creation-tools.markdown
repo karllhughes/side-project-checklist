@@ -11,9 +11,16 @@ If your product requires specialized knowledge or if you're trying to position y
 
 ![](https://i.imgur.com/zYZhJ4u.jpg)
 
-This list is a great jumping off point. It highlights many of the top course creation platforms available, and gives you information about each one. Some are free and open source, while others are paid and full of time-saving features. While you'll still have to create your course, having a great course creation platform can make distribution and management much easier. 
+This list is a great jumping off point. It highlights many of the top course creation platforms available, and gives you information about each one. Some are free and open source, while others are paid and full of time-saving features. While you'll still have to create your course, having a great course creation platform can make distribution and management much easier.
 
-{% include featured-banner.html %}
+<div class="featured">
+  <h2>Featured</h2>
+  <a href="http://www.shareasale.com/r.cfm?b=775702&u=1653894&m=61624"><img src="https://i.imgur.com/mgz2leU.jpg?1" alt="Thinkific"></a>
+  <p>
+    <strong><a href="http://www.shareasale.com/r.cfm?b=775702&u=1653894&m=61624">Thinkific</a></strong> - 
+    Thinkific brings you beautifully simple course creation. Whether you are educating 10 students or 10 million, feel confident that you’ve got the easiest technology and the best support in the business.
+  </p>
+</div>
 
 ### Online Course Platforms
 
