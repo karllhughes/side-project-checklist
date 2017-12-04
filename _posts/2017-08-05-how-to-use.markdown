@@ -18,11 +18,11 @@ Gists are great because they're just a simple way to store markdown files and yo
 
 ## 2. Customize the checklist
 
-Next, I removed some things that weren't relevant. For example, the [section on social media](http://localhost:4000/marketing-checklist/#social-media) wasn't relevant to this project because I didn't want to set up Twitter and Facebook accounts for it yet.
+Next, I removed some things that weren't relevant. For example, the [section on social media]({{ site.url }}/marketing-checklist/#social-media) wasn't relevant to this project because I didn't want to set up Twitter and Facebook accounts for it yet.
 
 ![](http://i.imgur.com/eWmN1fD.png)
 
-I then modified some of the items that were applicable. For example, instead of making a list of tech blogs for my [PR preparations](http://localhost:4000/marketing-checklist/#pr-preparations), I am making a list of startup and small business marketing blogs. I'm subscribing to them, and later I'll pitch some of them for guest posts or leave comments on them.
+I then modified some of the items that were applicable. For example, instead of making a list of tech blogs for my [PR preparations]({{ site.url }}/marketing-checklist/#pr-preparations), I am making a list of startup and small business marketing blogs. I'm subscribing to them, and later I'll pitch some of them for guest posts or leave comments on them.
 
 Finally, I started adding some custom lists like the huge list of [places to post this project](https://gist.github.com/karllhughes/56153edea80f2c735a0b8f57ff0eba94#file-2-places-to-post-md) and some early [blog post ideas](https://gist.github.com/karllhughes/56153edea80f2c735a0b8f57ff0eba94#file-3-blog-ideas-md). I like Gists because you can have multiple files without needing to set up a whole new repository for them.
 
