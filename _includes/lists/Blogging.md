@@ -4,6 +4,8 @@
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="Linkedin_Publishing">&#x25B2; <span class="count">1</span></a> &nbsp;**[Linkedin Publishing](https://www.linkedin.com/post/new)** <span style="color: grey;">($0)</span> - Linkedin has a publishing tool that allows anyone to write blog posts that are immediately shared with their Linkedin network and profile. You don’t get any options for customizing your posts or calls to action, but it’s simple and gets automatic distribution.
 
+- <a href="#vote-form" class="vote-link" rel="modal:open" id="Write.as">&#x25B2; <span class="count">1</span></a> &nbsp;**[Write.as](https://write.as/)** <span style="color: grey;">($0)</span> - Quick, free (or cheap to upgrade), does custom domains, custom CSS, and it’s easy to create a bunch of blogs from one account if you upgrade.
+
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="Blogger">&#x25B2; <span class="count">0</span></a> &nbsp;**[Blogger](https://www.blogger.com/)** <span style="color: grey;">($0)</span> - Google’s free blogging platform is pretty low-frills, but it will get the job done. It can even be used on a custom domain.
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="ButterCMS">&#x25B2; <span class="count">0</span></a> &nbsp;**[ButterCMS](https://buttercms.com/)** <span style="color: grey;">($24)</span> - If you’d prefer to use a CMS as a backend and integrate your blog into your site, an option like ButterCMS would work.
@@ -37,6 +39,4 @@
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="Wordpress.com">&#x25B2; <span class="count">0</span></a> &nbsp;**[Wordpress.com](https://wordpress.com/)** <span style="color: grey;">($0)</span> - Wordpress.com is a hosted blogging service. It makes setup easier, but allows for less flexibility and includes fewer plugin options than Wordpress.org.
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="Wordpress.org">&#x25B2; <span class="count">0</span></a> &nbsp;**[Wordpress.org](https://wordpress.org/)** <span style="color: grey;">($0)</span> - While you’ll have to install Wordpress on your own server, hosting is usually cheap. The biggest downside to Wordpress now is the spam that shows up because Wordpress is so popular.
-
-- <a href="#vote-form" class="vote-link" rel="modal:open" id="Write.as">&#x25B2; <span class="count">0</span></a> &nbsp;**[Write.as](https://write.as/)** <span style="color: grey;">($0)</span> - Quick, free (or cheap to upgrade), does custom domains, custom CSS, and it’s easy to create a bunch of blogs from one account if you upgrade.
 

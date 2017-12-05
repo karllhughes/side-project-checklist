@@ -1,4 +1,4 @@
-- <a href="#vote-form" class="vote-link" rel="modal:open" id="FlatIcon">&#x25B2; <span class="count">1</span></a> &nbsp;**[FlatIcon](https://www.flaticon.com/)** <span style="color: grey;">($0)</span> - Free vector graphics and icons for use with attribution. Lots of great full-color logo elements here.
+- <a href="#vote-form" class="vote-link" rel="modal:open" id="FlatIcon">&#x25B2; <span class="count">2</span></a> &nbsp;**[FlatIcon](https://www.flaticon.com/)** <span style="color: grey;">($0)</span> - Free vector graphics and icons for use with attribution. Lots of great full-color logo elements here.
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="Logo_Rank">&#x25B2; <span class="count">1</span></a> &nbsp;**[Logo Rank](http://brandmark.io/logo-rank/)** <span style="color: grey;">($0)</span> - See how well your logo stacks up against well-known logos and best practices.
 

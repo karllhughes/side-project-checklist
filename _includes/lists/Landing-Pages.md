@@ -1,12 +1,12 @@
+- <a href="#vote-form" class="vote-link" rel="modal:open" id="Landing_Lion">&#x25B2; <span class="count">4</span></a> &nbsp;**[Landing Lion](https://www.landinglion.com/)** <span style="color: grey;">($0)</span> - A simple drag and drop interface is included.
+
+- <a href="#vote-form" class="vote-link" rel="modal:open" id="Prelaunch_Landing_Page">&#x25B2; <span class="count">2</span></a> &nbsp;**[Prelaunch Landing Page](https://github.com/evasio/prelaunch-landing-page)** <span style="color: grey;">($0)</span> - This simple open source template uses Nette and Bootstrap 4 to allow users to sign up before your product has launched.
+
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="Squarespace">&#x25B2; <span class="count">2</span></a> &nbsp;**[Squarespace](https://www.squarespace.com/)** <span style="color: grey;">($12)</span> - Squarespace is my go-to recommendation for non-technical people who need a website. Squarespace works just as well for basic landing pages as it does for a full-featured website and blog.
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="ClickFunnels">&#x25B2; <span class="count">1</span></a> &nbsp;**[ClickFunnels](https://www.clickfunnels.com/)** <span style="color: grey;">($97)</span> - Very linear landing page experience, but a bit pricey.
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="Jekyll">&#x25B2; <span class="count">1</span></a> &nbsp;**[Jekyll](https://jekyllrb.com/)** <span style="color: grey;">($0)</span> - If you don’t mind writing a little HTML yourself, Jekyll is an awesome landing page and blogging platform. It can scale pretty much infinitely and it’s free to use with Github pages.
-
-- <a href="#vote-form" class="vote-link" rel="modal:open" id="Landing_Lion">&#x25B2; <span class="count">1</span></a> &nbsp;**[Landing Lion](https://www.landinglion.com/)** <span style="color: grey;">($0)</span> - A simple drag and drop interface is included.
-
-- <a href="#vote-form" class="vote-link" rel="modal:open" id="Prelaunch_Landing_Page">&#x25B2; <span class="count">1</span></a> &nbsp;**[Prelaunch Landing Page](https://github.com/evasio/prelaunch-landing-page)** <span style="color: grey;">($0)</span> - This simple open source template uses Nette and Bootstrap 4 to allow users to sign up before your product has launched.
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="Carrd">&#x25B2; <span class="count">0</span></a> &nbsp;**[Carrd](https://carrd.co/)** <span style="color: grey;">($2)</span> - Simple to use and free to get started.
 
