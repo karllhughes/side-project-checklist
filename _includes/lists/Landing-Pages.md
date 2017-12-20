@@ -18,6 +18,9 @@
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="Instapage">&#x25B2; <span class="count">0</span></a> &nbsp;**[Instapage](https://instapage.com/)** <span style="color: grey;">($68)</span> - While a bit pricey, I’ve enjoyed how much freedom Instapage gives you to customize your landing pages without writing HTML.
 
+- <a href="#vote-form" class="vote-link" rel="modal:open" id="Landbot">&#x25B2; <span class="count">0</span></a> &nbsp;**[Landbot](https://landbot.io)** <span style="color: grey;">($20)</span> - Turn a landing page into a chatbot. Create beautiful conversational interfaces in minutes and boost your conversion rate. 
+It's easy to use, fully customizable and made for lead capturing. 
+
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="Lander">&#x25B2; <span class="count">0</span></a> &nbsp;**[Lander](https://landerapp.com/)** <span style="color: grey;">($16)</span> - Integrates with email marketing platforms and lets you create Facebook pages as well.
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="Landing_Page_Experts">&#x25B2; <span class="count">0</span></a> &nbsp;**[Landing Page Experts](http://landing-page-experts.com/)**  - A landing page consultation service that guarantees your A/B test after their improvements will be better.
@@ -31,6 +34,8 @@
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="Launchrock">&#x25B2; <span class="count">0</span></a> &nbsp;**[Launchrock](https://www.launchrock.com/)** <span style="color: grey;">($0)</span> - Really simple, but kind of limited because of that. Still, Launchrock is a good option when you just want to collect email addresses on a “Coming Soon” page.
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="Leadpages">&#x25B2; <span class="count">0</span></a> &nbsp;**[Leadpages](https://www.leadpages.net/welcome)** <span style="color: grey;">($25)</span> - Leadpages generates leads and sales for your business on the web, in emails, via text messaging, and on social media.
+
+- <a href="#vote-form" class="vote-link" rel="modal:open" id="Mailchimp_Landing_Pages">&#x25B2; <span class="count">0</span></a> &nbsp;**[Mailchimp Landing Pages](https://mailchimp.com/features/landing-pages/)** <span style="color: grey;">($0)</span> - If you're already using Mailchimp for email list management, take a look at their simple landing page creator. It might make integration even easier.
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="Mopro">&#x25B2; <span class="count">0</span></a> &nbsp;**[Mopro](https://www.mopro.com/)** <span style="color: grey;">($199)</span> - AI Powered business website and design tools.
 

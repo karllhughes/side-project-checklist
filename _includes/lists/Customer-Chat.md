@@ -1,8 +1,8 @@
+- <a href="#vote-form" class="vote-link" rel="modal:open" id="Altocloud">&#x25B2; <span class="count">1</span></a> &nbsp;**[Altocloud](https://www.altocloud.com/)** <span style="color: grey;">($49)</span> - In addition to chat, Altocloud gives you customer journeys, predictive analytics and more.
+
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="Autopilot">&#x25B2; <span class="count">1</span></a> &nbsp;**[Autopilot](https://autopilothq.com/)** <span style="color: grey;">($19.99)</span> - Autopilot covers more than just in-app chat; you can use it to build complex customer journeys as well.
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="Intercom">&#x25B2; <span class="count">1</span></a> &nbsp;**[Intercom](https://www.intercom.com/)** <span style="color: grey;">($49)</span> - Intercom is probably the most well-known player in this space. Their offerings now border on complete customer and sales solutions, but you can just use them for chat as well.
-
-- <a href="#vote-form" class="vote-link" rel="modal:open" id="Altocloud">&#x25B2; <span class="count">0</span></a> &nbsp;**[Altocloud](https://www.altocloud.com/)** <span style="color: grey;">($49)</span> - In addition to chat, Altocloud gives you customer journeys, predictive analytics and more.
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="Chat.io">&#x25B2; <span class="count">0</span></a> &nbsp;**[Chat.io](https://www.chat.io/)** <span style="color: grey;">($10)</span> - Has a Facebook integration that lets you handle Messenger conversations along with chats from website in one app. $10/month with a 14-day free trial.
 
@@ -23,6 +23,9 @@
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="JetLink">&#x25B2; <span class="count">0</span></a> &nbsp;**[JetLink](https://jetlink.io/)**  - Supplement your customer service with smart chatbots that can cut down on the amount of time you spend answering common questions.
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="JivoSite">&#x25B2; <span class="count">0</span></a> &nbsp;**[JivoSite](https://www.jivochat.com/)** <span style="color: grey;">($0)</span> - Includes a free tier for up to five agents. It also integrates with Facebook messenger if your customers happen to be there as well.
+
+- <a href="#vote-form" class="vote-link" rel="modal:open" id="Landbot">&#x25B2; <span class="count">0</span></a> &nbsp;**[Landbot](https://landbot.io)** <span style="color: grey;">($20)</span> - Turn a landing page into a chatbot. Create beautiful conversational interfaces in minutes and boost your conversion rate. 
+It's easy to use, fully customizable and made for lead capturing. 
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="LiveChat">&#x25B2; <span class="count">0</span></a> &nbsp;**[LiveChat](https://www.livechatinc.com/?a=ePY_dwl81d&utm_source=PP&utm_medium=text&utm_content=v18&utm_campaign=pp_spm-checklist&utm_term=)** <span style="color: grey;">($16)</span> - Contact your online visitors in real-time through LiveChat! Chat with your visitors and convert them into customers using the web, desktop and mobile applications. Start your free 60-day LiveChat trial today.
 

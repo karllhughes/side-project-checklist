@@ -1,8 +1,8 @@
+- <a href="#vote-form" class="vote-link" rel="modal:open" id="Mailchimp">&#x25B2; <span class="count">2</span></a> &nbsp;**[Mailchimp](http://eepurl.com/cMDrn5)** <span style="color: grey;">($0)</span> - You may have heard about them in a podcast advertisement, but Mailchimp is great for a number of reasons. Their email template builder is simple to use and they have a generous free tier for up to 2000 subscribers. Sign up today to get a free $30 credit!
+
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="Autopilot">&#x25B2; <span class="count">1</span></a> &nbsp;**[Autopilot](https://autopilothq.com/)** <span style="color: grey;">($19.99)</span> - Autopilot covers more than just in-app chat; you can use it to build complex customer journeys as well.
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="Mad_Mimi">&#x25B2; <span class="count">1</span></a> &nbsp;**[Mad Mimi](https://madmimi.com/)** <span style="color: grey;">($10)</span> - I’ve used Mad Mimi as a lower cost alternative to Mailchimp, but I’m not as keen on their email creation UI.
-
-- <a href="#vote-form" class="vote-link" rel="modal:open" id="Mailchimp">&#x25B2; <span class="count">1</span></a> &nbsp;**[Mailchimp](http://eepurl.com/cMDrn5)** <span style="color: grey;">($0)</span> - You may have heard about them in a podcast advertisement, but Mailchimp is great for a number of reasons. Their email template builder is simple to use and they have a generous free tier for up to 2000 subscribers. Sign up today to get a free $30 credit!
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="MailerLite">&#x25B2; <span class="count">1</span></a> &nbsp;**[MailerLite](https://www.mailerlite.com)** <span style="color: grey;">($0)</span> - Email Marketing Service for Small Business with all features (Segmentation, Automation, A/B testing, ...) for up to 1,000 subscribers & unlimited emails for free.
 

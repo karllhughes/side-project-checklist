@@ -18,6 +18,8 @@
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="Less_Annoying_CRM">&#x25B2; <span class="count">0</span></a> &nbsp;**[Less Annoying CRM](https://www.lessannoyingcrm.com/)** <span style="color: grey;">($10)</span> - A simple customer relationship manager made just for small businesses. Manage contact info, track leads, and never miss a follow-up.
 
+- <a href="#vote-form" class="vote-link" rel="modal:open" id="Pickle_CRM">&#x25B2; <span class="count">0</span></a> &nbsp;**[Pickle CRM](picklecrm.com)** <span style="color: grey;">($9)</span> - Pickle is the dead simple CRM tool for entrepreneurs, realtors, wedding planners, and small businesses.
+
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="Propeller">&#x25B2; <span class="count">0</span></a> &nbsp;**[Propeller](https://www.propellercrm.com/)** <span style="color: grey;">($29)</span> - Propeller is a CRM solution that helps you sell from within Gmail.
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="Relenta">&#x25B2; <span class="count">0</span></a> &nbsp;**[Relenta](http://www.relenta.com/)** <span style="color: grey;">($39)</span> - Relenta CRM is an email-based CRM. Relenta CRM works by automatically linking all sent and received email to contact timelines.

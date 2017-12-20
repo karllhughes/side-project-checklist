@@ -22,6 +22,8 @@
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="ISO_Republic">&#x25B2; <span class="count">0</span></a> &nbsp;**[ISO Republic](https://isorepublic.com/)** <span style="color: grey;">($0)</span> - ISO Republic provides free stock photos for creatives, and has published over 3,000 CC0 licensed images since its inception.
 
+- <a href="#vote-form" class="vote-link" rel="modal:open" id="JoyDesign">&#x25B2; <span class="count">0</span></a> &nbsp;**[JoyDesign](https://joydesign.co/)** <span style="color: grey;">($0)</span> - Free illustrations for your next idea. Sign up to get high-quality illustrations sent to you every week.
+
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="LibreStock">&#x25B2; <span class="count">0</span></a> &nbsp;**[LibreStock](http://librestock.com/)** <span style="color: grey;">($0)</span> - Allows you to search multiple stock photo sites at once.
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="Magdeleine">&#x25B2; <span class="count">0</span></a> &nbsp;**[Magdeleine](https://magdeleine.co/browse/)** <span style="color: grey;">($0)</span> - Search by keyword, color, tag, or category to find the perfect attribution-required stock images.
