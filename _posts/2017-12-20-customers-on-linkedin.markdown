@@ -10,7 +10,7 @@ categories:
 
 Linkedin gained users at a rate of [2 per second in 2017](http://www.readycontacts.com/linkedin-by-the-numbers/), and it has pretty much dominated the professional social profile space in most industries. That said, I think it's quite underutilized for finding early customers to your product. If like most side project owners, you are looking for your first few customers, Linkedin might be a perfect outlet. Here's how I've seen it used for early customer acquisition.
 
-![](...)
+![](https://i.imgur.com/MdIEyar.jpg)
 
 ### 1. Start with your existing connections
 
