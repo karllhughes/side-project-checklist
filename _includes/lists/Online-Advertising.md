@@ -1,3 +1,5 @@
+- <a href="#vote-form" class="vote-link" rel="modal:open" id="BannerSnack">&#x25B2; <span class="count">2</span></a> &nbsp;**[BannerSnack](https://www.bannersnack.com/)** <span style="color: grey;">($0)</span> - Online banner ad creator to design banners and build advertising campaigns.
+
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="Facebook_Ads">&#x25B2; <span class="count">1</span></a> &nbsp;**[Facebook Ads](https://www.facebook.com/business/products/ads)**  - Target customers directly or use their remarketing platform to get in front of people when they're most likely to purchase.
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="Google_Adwords">&#x25B2; <span class="count">1</span></a> &nbsp;**[Google Adwords](https://adwords.google.com/home/)**  - Get your name in front of customers as they search on Google.
@@ -7,8 +9,6 @@
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="AdEspresso">&#x25B2; <span class="count">0</span></a> &nbsp;**[AdEspresso](https://adespresso.com/)**  - AdEspresso helps you create, analyze, and optimize your Facebook advertisements.
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="Affiliate.com">&#x25B2; <span class="count">0</span></a> &nbsp;**[Affiliate.com](http://affiliate.com/)**  - affiliate.com has one of the strictest affiliate approval processes in the industry, which ensures that your offer will only be promoted by high-quality affiliates.
-
-- <a href="#vote-form" class="vote-link" rel="modal:open" id="BannerSnack">&#x25B2; <span class="count">0</span></a> &nbsp;**[BannerSnack](https://www.bannersnack.com/)** <span style="color: grey;">($0)</span> - Online banner ad creator to design banners and build advertising campaigns.
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="Bing_Ads">&#x25B2; <span class="count">0</span></a> &nbsp;**[Bing Ads](https://secure.bingads.microsoft.com/)**  - Bing may be second to Google in search engines, but it still gets 5 billion searches per month.
 

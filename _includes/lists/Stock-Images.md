@@ -1,4 +1,6 @@
-- <a href="#vote-form" class="vote-link" rel="modal:open" id="Unsplash">&#x25B2; <span class="count">2</span></a> &nbsp;**[Unsplash](https://unsplash.com/)** <span style="color: grey;">($0)</span> - My personal go-to for stock images because they're really easy to search and use. Attribution is also optional.
+- <a href="#vote-form" class="vote-link" rel="modal:open" id="Unsplash">&#x25B2; <span class="count">3</span></a> &nbsp;**[Unsplash](https://unsplash.com/)** <span style="color: grey;">($0)</span> - My personal go-to for stock images because they're really easy to search and use. Attribution is also optional.
+
+- <a href="#vote-form" class="vote-link" rel="modal:open" id="Pexels">&#x25B2; <span class="count">1</span></a> &nbsp;**[Pexels](https://www.pexels.com/)** <span style="color: grey;">($0)</span> - Lots of great photos with an interesting leaderboard for contributors.
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="AllTheFreeStock">&#x25B2; <span class="count">0</span></a> &nbsp;**[AllTheFreeStock](http://allthefreestock.com/)** <span style="color: grey;">($0)</span> - Get all the free stock images, videos, music, and icons under the Creative Commons Zero license.
 
@@ -32,9 +34,9 @@
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="New_Old_Stock">&#x25B2; <span class="count">0</span></a> &nbsp;**[New Old Stock](https://nos.twnsnd.co/)** <span style="color: grey;">($0)</span> - Vintage photos that no longer have copyright protection and are free to use.
 
-- <a href="#vote-form" class="vote-link" rel="modal:open" id="Pexels">&#x25B2; <span class="count">0</span></a> &nbsp;**[Pexels](https://www.pexels.com/)** <span style="color: grey;">($0)</span> - Lots of great photos with an interesting leaderboard for contributors.
-
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="Picjumbo">&#x25B2; <span class="count">0</span></a> &nbsp;**[Picjumbo](https://picjumbo.com/)** <span style="color: grey;">($0)</span> - Thousands of free stock photos with upgrade options to get even more with a premium membership.
+
+- <a href="#vote-form" class="vote-link" rel="modal:open" id="Pikwizard">&#x25B2; <span class="count">0</span></a> &nbsp;**[Pikwizard](https://pikwizard.com/)** <span style="color: grey;">($0)</span> - Over 100,000 completely free stock photos that don't require any attribution. High quality images of people that can't be found on other free stock photo sites.
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="Pixabay">&#x25B2; <span class="count">0</span></a> &nbsp;**[Pixabay](http://pixabay.com/)** <span style="color: grey;">($0)</span> - Over 1.2 million community-generated photos of just about everything you can imagine.
 

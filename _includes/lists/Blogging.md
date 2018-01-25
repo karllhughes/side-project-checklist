@@ -1,10 +1,10 @@
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="Squarespace">&#x25B2; <span class="count">2</span></a> &nbsp;**[Squarespace](https://www.squarespace.com/)** <span style="color: grey;">($12)</span> - Squarespace is my go-to recommendation for non-technical people who need a website. Squarespace works just as well for basic landing pages as it does for a full-featured website and blog.
 
+- <a href="#vote-form" class="vote-link" rel="modal:open" id="Write.as">&#x25B2; <span class="count">2</span></a> &nbsp;**[Write.as](https://write.as/)** <span style="color: grey;">($0)</span> - Quick, free (or cheap to upgrade), does custom domains, custom CSS, and it’s easy to create a bunch of blogs from one account if you upgrade.
+
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="Jekyll">&#x25B2; <span class="count">1</span></a> &nbsp;**[Jekyll](https://jekyllrb.com/)** <span style="color: grey;">($0)</span> - If you don’t mind writing a little HTML yourself, Jekyll is an awesome landing page and blogging platform. It can scale pretty much infinitely and it’s free to use with Github pages.
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="Linkedin_Publishing">&#x25B2; <span class="count">1</span></a> &nbsp;**[Linkedin Publishing](https://www.linkedin.com/post/new)** <span style="color: grey;">($0)</span> - Linkedin has a publishing tool that allows anyone to write blog posts that are immediately shared with their Linkedin network and profile. You don’t get any options for customizing your posts or calls to action, but it’s simple and gets automatic distribution.
-
-- <a href="#vote-form" class="vote-link" rel="modal:open" id="Write.as">&#x25B2; <span class="count">1</span></a> &nbsp;**[Write.as](https://write.as/)** <span style="color: grey;">($0)</span> - Quick, free (or cheap to upgrade), does custom domains, custom CSS, and it’s easy to create a bunch of blogs from one account if you upgrade.
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="Blogger">&#x25B2; <span class="count">0</span></a> &nbsp;**[Blogger](https://www.blogger.com/)** <span style="color: grey;">($0)</span> - Google’s free blogging platform is pretty low-frills, but it will get the job done. It can even be used on a custom domain.
 
