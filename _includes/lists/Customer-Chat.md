@@ -2,13 +2,13 @@
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="Autopilot">&#x25B2; <span class="count">1</span></a> &nbsp;**[Autopilot](https://autopilothq.com/)** <span style="color: grey;">($19.99)</span> - Autopilot covers more than just in-app chat; you can use it to build complex customer journeys as well.
 
+- <a href="#vote-form" class="vote-link" rel="modal:open" id="Chatra">&#x25B2; <span class="count">1</span></a> &nbsp;**[Chatra](https://chatra.io/)** <span style="color: grey;">($0)</span> - You can either wait for visitors to ask you questions or proactively engage them on your sales pages.
+
+- <a href="#vote-form" class="vote-link" rel="modal:open" id="Crisp.chat">&#x25B2; <span class="count">1</span></a> &nbsp;**[Crisp.chat](https://crisp.chat/en/)** <span style="color: grey;">($0)</span> - Crisp offers a free tier for small businesses with just one or two customer service reps, so this could be perfect for a side project just getting started.
+
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="Intercom">&#x25B2; <span class="count">1</span></a> &nbsp;**[Intercom](https://www.intercom.com/)** <span style="color: grey;">($49)</span> - Intercom is probably the most well-known player in this space. Their offerings now border on complete customer and sales solutions, but you can just use them for chat as well.
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="Chat.io">&#x25B2; <span class="count">0</span></a> &nbsp;**[Chat.io](https://www.chat.io/)** <span style="color: grey;">($10)</span> - Has a Facebook integration that lets you handle Messenger conversations along with chats from website in one app. $10/month with a 14-day free trial.
-
-- <a href="#vote-form" class="vote-link" rel="modal:open" id="Chatra">&#x25B2; <span class="count">0</span></a> &nbsp;**[Chatra](https://chatra.io/)** <span style="color: grey;">($0)</span> - You can either wait for visitors to ask you questions or proactively engage them on your sales pages.
-
-- <a href="#vote-form" class="vote-link" rel="modal:open" id="Crisp.chat">&#x25B2; <span class="count">0</span></a> &nbsp;**[Crisp.chat](https://crisp.chat/en/)** <span style="color: grey;">($0)</span> - Crisp offers a free tier for small businesses with just one or two customer service reps, so this could be perfect for a side project just getting started.
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="Drift">&#x25B2; <span class="count">0</span></a> &nbsp;**[Drift](https://www.drift.com/)** <span style="color: grey;">($0)</span> - Drift seeks to replace your traditional interest forms with a smart chat AI, and they offer a free plan for fewer than 100 contacts.
 

@@ -1,5 +1,3 @@
-- <a href="#vote-form" class="vote-link" rel="modal:open" id="Tech_Press_List">&#x25B2; <span class="count">2</span></a> &nbsp;**[Tech Press List](https://www.techpresslist.com/)** <span style="color: grey;">($20)</span> - For $20, you get the email addresses of 100 tech journalists.
-
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="Find-me">&#x25B2; <span class="count">1</span></a> &nbsp;**[Find-me](https://www.find-me.co/)** <span style="color: grey;">($9)</span> - A massive list of bloggers that you pay just $9/month for access to.
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="PR_Buzz">&#x25B2; <span class="count">1</span></a> &nbsp;**[PR Buzz](https://www.prbuzz.com/)** <span style="color: grey;">($299)</span> - While their package is more expensive, it offers unlimited releases in a year.
@@ -21,6 +19,8 @@
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="PR.com">&#x25B2; <span class="count">0</span></a> &nbsp;**[PR.com](http://www.pr.com/)** <span style="color: grey;">($30)</span> - Offers a low-cost package, but no guaranteed syndication, so it may or may not be a good deal.
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="PRLog">&#x25B2; <span class="count">0</span></a> &nbsp;**[PRLog](https://www.prlog.org/)** <span style="color: grey;">($0)</span> - Free ad-supported distribution with options to purchase premium packages
+
+- <a href="#vote-form" class="vote-link" rel="modal:open" id="PRnob.com">&#x25B2; <span class="count">0</span></a> &nbsp;**[PRnob.com](www.PRnob.com)** <span style="color: grey;">($29)</span> - Get your press release published on 10000+ news and media outlets.
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="WebWire">&#x25B2; <span class="count">0</span></a> &nbsp;**[WebWire](https://www.webwire.com/IndustryList.asp)** <span style="color: grey;">($0)</span> - WebWire hosts a list of trade journals by industry that could be very helpful if you’re exploring a new market and want to know what the major news sources are.
 
