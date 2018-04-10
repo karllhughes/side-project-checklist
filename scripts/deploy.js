@@ -1,8 +1,11 @@
-const fs = require('fs');
-const path = require('path');
-const util = require('util');
+require('dotenv').config();
+const git = require('simple-git/promise');
 
-const stats = fs.statSync(path.join(__dirname, '..', 'marketing-checklist.md'));
-const mtime = new Date(util.inspect(stats.mtime));
-console.log(mtime);
+async function run() {
+  return await git().commit('Automated commit', '-a');
+}
 
+run().then((err, result) => {
+  console.log('Commit complete');
+  console.log(result);
+});
