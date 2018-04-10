@@ -13,11 +13,14 @@ $(document).ready(function() {
 // Submits vote form
 $('#vote-form').submit(function (event) {
   event.preventDefault();
+
+  // Get the vote data
   var data = $(this).serializeArray().reduce(function(obj, item) {
     obj[item.name] = item.value;
     return obj;
   }, {});
-  console.log(data);
+
+  // Make the Ajax call to save the vote
   $.ajax({
     type: "POST",
     url: "https://www.sideprojectchecklist.com/api/appsWmNYoIAPDCz8V/Votes",
