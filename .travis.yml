@@ -6,6 +6,6 @@ script:
  - npm run gen:checklists
 deploy:
   - provider: script
-    script: node scripts/deploy.js
+    script: bash scripts/deploy.sh
     on:
       branch: master
