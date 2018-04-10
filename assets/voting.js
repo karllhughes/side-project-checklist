@@ -10,15 +10,34 @@ $(document).ready(function() {
   }
 });
 
-// Fixes cross-domain Options request
-$(document).on("beforeAjaxSend.ic", function (evt, settings) {
-  delete settings.headers['X-IC-Request'];
-  delete settings.headers['X-HTTP-Method-Override'];
+// Submits vote form
+$('#vote-form').submit(function (event) {
+  event.preventDefault();
+
+  // Get the vote data
+  var data = $(this).serializeArray().reduce(function(obj, item) {
+    obj[item.name] = item.value;
+    return obj;
+  }, {});
+
+  // Make the Ajax call to save the vote
+  $.ajax({
+    type: "POST",
+    url: "https://www.sideprojectchecklist.com/api/appsWmNYoIAPDCz8V/Votes",
+    data: JSON.stringify({
+      fields: {
+        Email: data.email,
+        Product: [data.product]
+      }
+    }),
+    success: voteCastComplete(),
+    dataType: 'application/json; charset=utf-8'
+  });
 });
 
 // Set the product
 $('a.vote-link').click(function() {
-  var product = replaceAll(replaceAll($(this).attr('id'), '#', ''), '_', ' ');
+  var product = replaceAll($(this).attr('id'), '#', '');
   $('#product').val(product);
   return true;
 });
