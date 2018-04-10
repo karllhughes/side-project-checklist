@@ -39,7 +39,7 @@ function generateMarkdown(products) {
 
 function getLink(product) {
   return '- <a href="#vote-form" class="vote-link" rel="modal:open" id="' +
-    replaceAll(product.fields.Name, ' ', '_') +
+    product.id +
     '">&#x25B2; <span class="count">' +
     product.fields['Vote Count'] +
     '</span></a> &nbsp;';
