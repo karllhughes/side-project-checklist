@@ -1,7 +1,9 @@
 if [ -n "$GITHUB_API_KEY" ]; then
   cd "$TRAVIS_BUILD_DIR"
-  git clone -b gh-pages https://karllhughes:$GITHUB_API_KEY@github.com/karllhughes/side-project-checklist
+  git clone https://karllhughes:$GITHUB_API_KEY@github.com/karllhughes/side-project-checklist
   cd side-project-checklist
+  git checkout gh-pages
+  git merge master
   npm install
   AIRTABLE_API_KEY=$AIRTABLE_API_KEY AIRTABLE_BASE_ID=$AIRTABLE_BASE_ID node scripts/generate-products
   AIRTABLE_API_KEY=$AIRTABLE_API_KEY AIRTABLE_BASE_ID=$AIRTABLE_BASE_ID node scripts/generate-checklists
