@@ -1,4 +1,4 @@
-- <a href="#vote-form" class="vote-link" rel="modal:open" id="recN05viFjZ7a23j3">&#x25B2; <span class="count">2</span></a> &nbsp;**[FlatIcon](https://www.flaticon.com/)** <span style="color: grey;">($0)</span> - Free vector graphics and icons for use with attribution. Lots of great full-color logo elements here.
+- <a href="#vote-form" class="vote-link" rel="modal:open" id="recN05viFjZ7a23j3">&#x25B2; <span class="count">3</span></a> &nbsp;**[FlatIcon](https://www.flaticon.com/)** <span style="color: grey;">($0)</span> - Free vector graphics and icons for use with attribution. Lots of great full-color logo elements here.
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="recGhwHntLBbwHFTN">&#x25B2; <span class="count">2</span></a> &nbsp;**[Logojoy](https://logojoy.com/)** <span style="color: grey;">($20)</span> - Logojoy uses artificial intelligence to instantly generate beautiful, unique logo ideas for your business.
 

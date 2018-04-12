@@ -2,9 +2,9 @@
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="rechtP28ML69RPaIV">&#x25B2; <span class="count">2</span></a> &nbsp;**[Facebook Ads](https://www.facebook.com/business/products/ads)**  - Target customers directly or use their remarketing platform to get in front of people when they're most likely to purchase.
 
-- <a href="#vote-form" class="vote-link" rel="modal:open" id="recCA1OTJkIOnnHA1">&#x25B2; <span class="count">2</span></a> &nbsp;**[LinkedIn Ads](https://business.linkedin.com/marketing-solutions/ads#)**  - Targeted advertising on LinkedIn can help you reach people in specific careers or professional interests.
-
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="recBtG45eF1tF33ui">&#x25B2; <span class="count">1</span></a> &nbsp;**[Google Adwords](https://adwords.google.com/home/)**  - Get your name in front of customers as they search on Google.
+
+- <a href="#vote-form" class="vote-link" rel="modal:open" id="recCA1OTJkIOnnHA1">&#x25B2; <span class="count">1</span></a> &nbsp;**[LinkedIn Ads](https://business.linkedin.com/marketing-solutions/ads#)**  - Targeted advertising on LinkedIn can help you reach people in specific careers or professional interests.
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="recrQWZrC6v7SZlgo">&#x25B2; <span class="count">0</span></a> &nbsp;**[AdEspresso](https://adespresso.com/)**  - AdEspresso helps you create, analyze, and optimize your Facebook advertisements.
 
