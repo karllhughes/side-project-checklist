@@ -9,4 +9,4 @@ if [ -n "$GITHUB_API_KEY" ]; then
   cd "$TRAVIS_BUILD_DIR"
   echo "Build and push complete."
 fi
-echo "No build"
+echo "Script complete."
