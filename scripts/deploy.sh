@@ -3,6 +3,7 @@ if [ -n "$GITHUB_API_KEY" ]; then
   git clone https://karllhughes:$GITHUB_API_KEY@github.com/karllhughes/side-project-checklist
   cd side-project-checklist
   git checkout -b deploy
+  rm .travis.yml
   npm install
   AIRTABLE_API_KEY=$AIRTABLE_API_KEY AIRTABLE_BASE_ID=$AIRTABLE_BASE_ID node scripts/generate-products
   AIRTABLE_API_KEY=$AIRTABLE_API_KEY AIRTABLE_BASE_ID=$AIRTABLE_BASE_ID node scripts/generate-checklists
