@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Using The Side Project Marketing Checklist: What Worked and What Didn't"
-date:   2017-04-12
+date:   2018-04-12
 author: Karl Hughes
 categories:
   - guides
