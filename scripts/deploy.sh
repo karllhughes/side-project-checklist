@@ -1,7 +1,7 @@
 if [ -n "$GITHUB_API_KEY" ]; then
   # cd "$TRAVIS_BUILD_DIR"
-  cd web
   git clone https://karllhughes:$GITHUB_API_KEY@github.com/karllhughes/side-project-checklist
+  cd side-project-checklist
   git checkout -b deploy
   npm install
   npm run gen:products
