@@ -2,6 +2,8 @@
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="rechtP28ML69RPaIV">&#x25B2; <span class="count">2</span></a> &nbsp;**[Facebook Ads](https://www.facebook.com/business/products/ads)**  - Target customers directly or use their remarketing platform to get in front of people when they're most likely to purchase.
 
+- <a href="#vote-form" class="vote-link" rel="modal:open" id="rec3ltxbiLxhV351f">&#x25B2; <span class="count">1</span></a> &nbsp;**[Clickky](https://clickky.biz/)**  - Clickky is a full-stack platform for mobile advertisers and publishers, with the current focus on its own self-service platform.
+
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="recBtG45eF1tF33ui">&#x25B2; <span class="count">1</span></a> &nbsp;**[Google Adwords](https://adwords.google.com/home/)**  - Get your name in front of customers as they search on Google.
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="recCA1OTJkIOnnHA1">&#x25B2; <span class="count">1</span></a> &nbsp;**[LinkedIn Ads](https://business.linkedin.com/marketing-solutions/ads#)**  - Targeted advertising on LinkedIn can help you reach people in specific careers or professional interests.
@@ -13,8 +15,6 @@
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="rec4Vi8s84ig3qyJm">&#x25B2; <span class="count">0</span></a> &nbsp;**[Bing Ads](https://secure.bingads.microsoft.com/)**  - Bing may be second to Google in search engines, but it still gets 5 billion searches per month.
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="reciQAhSKveka9wDk">&#x25B2; <span class="count">0</span></a> &nbsp;**[Brandify Advertising](http://www.brandify.com/products/local-advertising/)**  - Brandify is a provider of location-based digital marketing solutions and local ads.
-
-- <a href="#vote-form" class="vote-link" rel="modal:open" id="rec3ltxbiLxhV351f">&#x25B2; <span class="count">0</span></a> &nbsp;**[Clickky](https://clickky.biz/)**  - Clickky is a full-stack platform for mobile advertisers and publishers, with the current focus on its own self-service platform.
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="recKVf9sqPFp627Zm">&#x25B2; <span class="count">0</span></a> &nbsp;**[Commission Junction](http://www.cj.com/)**  - Affiliate marketing platform that allows you to customize your ads while only paying for conversions and sales.
 
