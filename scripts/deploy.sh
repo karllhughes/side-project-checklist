@@ -4,8 +4,8 @@ if [ -n "$GITHUB_API_KEY" ]; then
   cd side-project-checklist
   git checkout -b deploy
   npm install
-  npm run gen:products
-  npm run gen:checklists
+  AIRTABLE_API_KEY=$AIRTABLE_API_KEY AIRTABLE_BASE_ID=$AIRTABLE_BASE_ID node scripts/generate-products
+  AIRTABLE_API_KEY=$AIRTABLE_API_KEY AIRTABLE_BASE_ID=$AIRTABLE_BASE_ID node scripts/generate-checklists
   git add -A
   git -c user.name='travis' -c user.email='travis' commit -m init
   git push -f -q https://karllhughes:$GITHUB_API_KEY@github.com/karllhughes/side-project-checklist deploy &2>/dev/null
