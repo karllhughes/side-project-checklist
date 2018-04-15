@@ -1,6 +1,6 @@
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="recuqNefBxjQF8t5L">&#x25B2; <span class="count">4</span></a> &nbsp;**[Landing Lion](https://www.landinglion.com/)** <span style="color: grey;">($0)</span> - A simple drag and drop interface is included.
 
-- <a href="#vote-form" class="vote-link" rel="modal:open" id="recE5tw3KrNn4hcg9">&#x25B2; <span class="count">3</span></a> &nbsp;**[Prelaunch Landing Page](https://github.com/evasio/prelaunch-landing-page)** <span style="color: grey;">($0)</span> - This simple open source template uses Nette and Bootstrap 4 to allow users to sign up before your product has launched.
+- <a href="#vote-form" class="vote-link" rel="modal:open" id="recE5tw3KrNn4hcg9">&#x25B2; <span class="count">4</span></a> &nbsp;**[Prelaunch Landing Page](https://github.com/evasio/prelaunch-landing-page)** <span style="color: grey;">($0)</span> - This simple open source template uses Nette and Bootstrap 4 to allow users to sign up before your product has launched.
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="recV4emXAKN7o472C">&#x25B2; <span class="count">2</span></a> &nbsp;**[Squarespace](https://www.squarespace.com/)** <span style="color: grey;">($12)</span> - Squarespace is my go-to recommendation for non-technical people who need a website. Squarespace works just as well for basic landing pages as it does for a full-featured website and blog.
 
