@@ -64,6 +64,8 @@
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="recEIX1Uxtm9w47PD">&#x25B2; <span class="count">0</span></a> &nbsp;**[Mixmax](https://mixmax.com/)** <span style="color: grey;">($9)</span>
 
+- <a href="#vote-form" class="vote-link" rel="modal:open" id="recU25eP0Xmdoi01K">&#x25B2; <span class="count">0</span></a> &nbsp;**[Privy](https://privy.com/)** <span style="color: grey;">($0)</span> - Privy helps you build popups, landing pages, spin to win campaigns and more to capture new contacts and grow your email list.
+
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="reccCaR429OO6M1wv">&#x25B2; <span class="count">0</span></a> &nbsp;**[ReachMail](https://www.reachmail.net/)** <span style="color: grey;">($0)</span>
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="recNYt9xG0roJDjDk">&#x25B2; <span class="count">0</span></a> &nbsp;**[Retainly](https://retainly.co/)** <span style="color: grey;">($0)</span>
