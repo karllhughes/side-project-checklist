@@ -18,7 +18,7 @@
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="recTmONQuMwT0PGH0">&#x25B2; <span class="count">0</span></a> &nbsp;**[OneUp](https://www.oneupapp.io/)** <span style="color: grey;">($7.99)</span> - OneUp will republish your top performing evergreen content to get more out of each post.
 
-- <a href="#vote-form" class="vote-link" rel="modal:open" id="recQ2K6QxyqQ6ilbW">&#x25B2; <span class="count">0</span></a> &nbsp;**[Planable](https://planable.io)** <span style="color: grey;">($49)</span> - Planable, the most visual platform to transform your creative ideas into social media posts, brainstorm right in the platform, get feedback, make sure the post is approved by your teammates and schedule the posts directly to social media. Here’s a link - https://planable.io.
+- <a href="#vote-form" class="vote-link" rel="modal:open" id="recQ2K6QxyqQ6ilbW">&#x25B2; <span class="count">0</span></a> &nbsp;**[Planable](https://planable.io)** <span style="color: grey;">($49)</span> - Planable, the most visual platform to transform your creative ideas into social media posts, brainstorm right in the platform, get feedback, make sure the post is approved by your teammates and schedule the posts directly to social media.
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="recO0kZNMEK1axc2o">&#x25B2; <span class="count">0</span></a> &nbsp;**[PowerPost](https://www.powerpost.digital/)**  - Scheduling and planning blog posts, sharing them to all your social channels, and keeping everything organized with a team is challenging. PowerPost makes it much easier.
 
