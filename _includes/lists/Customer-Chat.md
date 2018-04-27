@@ -18,6 +18,8 @@
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="recG7cFSY3bZ84lP9">&#x25B2; <span class="count">0</span></a> &nbsp;**[HelpCrunch](https://helpcrunch.com/)** <span style="color: grey;">($12)</span> - Messaging integrates into their complete customer-service solution.
 
+- <a href="#vote-form" class="vote-link" rel="modal:open" id="recuZlf9EGOo35QC8">&#x25B2; <span class="count">0</span></a> &nbsp;**[Hollaback](https://hollabackapp.com/)** <span style="color: grey;">($0)</span> - Livechat alternative for indie creators
+
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="recuRwnioS2Q7Lj9F">&#x25B2; <span class="count">0</span></a> &nbsp;**[Instream](http://instream.io/en/)** <span style="color: grey;">($6)</span> - Chat can be great for gathering leads who aren’t ready to commit their email address. Instream lets you start gathering this data right away.
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="recdAKfs8D8ujHqrr">&#x25B2; <span class="count">0</span></a> &nbsp;**[JetLink](https://jetlink.io/)**  - Supplement your customer service with smart chatbots that can cut down on the amount of time you spend answering common questions.
