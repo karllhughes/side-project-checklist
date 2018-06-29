@@ -89,4 +89,4 @@ Over the past few years, I've written a lot of blog posts and I've seen a lot of
 
 -----
 
-Have your own ideas for coming up with blog post topics? Submit a suggestion as an issue on [Github](https://github.com/karllhughes/side-project-marketing/issues).
+Have your own ideas for coming up with blog post topics? Submit a suggestion as an issue on [Github](https://github.com/portable-cto/side-project-marketing/issues).

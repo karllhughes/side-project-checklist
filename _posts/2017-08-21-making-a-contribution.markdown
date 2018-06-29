@@ -8,7 +8,7 @@ categories:
   - updates
 ---
 
-If you've stumbled on this project from somewhere on the internet, then welcome! While I compiled the [side project marketing checklist](https://www.sideprojectchecklist.com/marketing-checklist/) because I had a hard time marketing my projects, thousands of people have read and shared it, dozens of people have made suggestions for improving the project, and a few have even [helped make changes](https://github.com/karllhughes/side-project-marketing/graphs/contributors). The community is what makes a project like this successful, so I hope that you will help the project improve by making updates and suggestions.
+If you've stumbled on this project from somewhere on the internet, then welcome! While I compiled the [side project marketing checklist](https://www.sideprojectchecklist.com/marketing-checklist/) because I had a hard time marketing my projects, thousands of people have read and shared it, dozens of people have made suggestions for improving the project, and a few have even [helped make changes](https://github.com/portable-cto/side-project-marketing/graphs/contributors). The community is what makes a project like this successful, so I hope that you will help the project improve by making updates and suggestions.
 
 If you'd like to make a contribution, but you're not sure how you can help, here are some ideas:
 
@@ -16,7 +16,7 @@ If you'd like to make a contribution, but you're not sure how you can help, here
 
 ### 1. Take a look at the issues
 
-If there are any [issues on Github](https://github.com/karllhughes/side-project-marketing/issues) you can help with, go for it! See the instructions below for how to make a pull request.
+If there are any [issues on Github](https://github.com/portable-cto/side-project-marketing/issues) you can help with, go for it! See the instructions below for how to make a pull request.
 
 ### 2. Submit a guest blog post
 
@@ -34,19 +34,19 @@ The Side Project Checklist is a living document, so I'm open to adding new ideas
 
 ### 4. Ask a question
 
-If you have a request or question about marketing your project, [post it on the Github issues](https://github.com/karllhughes/side-project-marketing/issues). One of the hundreds of people watching this repository might get back to you with some advice.
+If you have a request or question about marketing your project, [post it on the Github issues](https://github.com/portable-cto/side-project-marketing/issues). One of the hundreds of people watching this repository might get back to you with some advice.
 
 ![](https://i.imgur.com/oVpnacQ.jpg)
 
 ## How to make a contribution
 
-We keep the checklist organized by [hosting it on Github](https://github.com/karllhughes/side-project-marketing). Github is a popular tool for open source projects, but if you're not familiar with it, that's okay. You can still contribute to the project, and here's how:
+We keep the checklist organized by [hosting it on Github](https://github.com/portable-cto/side-project-marketing). Github is a popular tool for open source projects, but if you're not familiar with it, that's okay. You can still contribute to the project, and here's how:
 
 ### 1. Get Familiar with the Checklist
 
 Before you make a suggestion or submit a change, please take a few minutes and ask yourself these questions:
 
-- **Has an issue already been created?** On Github, we keep a running lists of "[issues](https://github.com/karllhughes/side-project-marketing/issues)," or ideas to improve the checklist. Before you make a suggestion, see if there's already an issue open for your topic area.
+- **Has an issue already been created?** On Github, we keep a running lists of "[issues](https://github.com/portable-cto/side-project-marketing/issues)," or ideas to improve the checklist. Before you make a suggestion, see if there's already an issue open for your topic area.
 
 - **What about the blog?** I'm working on moving common requests and lists of services to [the blog](https://www.sideprojectchecklist.com/blog/), so be sure to see if your improvement might be a better fit for a blog post. If so, you can contribute (see the three methods below) or open an issue to improve an existing blog post.
 

@@ -27,4 +27,4 @@ It's frustrating to spend weeks or months creating a kick-ass new service or web
 
 Finally, **the list is ordered in chronological order**. Things you will do before your product launch are typically at the top of the list and things you will do later show up at the bottom. You can customize the order to your liking, but hopefully this is a good starting point.
 
-If you're interested in learning more, I've also written a post about [how I use this list]({% post_url 2017-08-05-how-to-use %}) to market this very site. As always, let me hear your feedback on [Github](https://github.com/karllhughes/side-project-marketing)!
+If you're interested in learning more, I've also written a post about [how I use this list]({% post_url 2017-08-05-how-to-use %}) to market this very site. As always, let me hear your feedback on [Github](https://github.com/portable-cto/side-project-marketing)!

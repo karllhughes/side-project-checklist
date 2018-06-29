@@ -6,7 +6,7 @@ permalink: /contributing/
 
 As with any open source project, we welcome contributors! Submit an issue or pull request with your improvements or suggestions to the appropriate repository listed here:
 
-- [Marketing Checklist](https://github.com/karllhughes/side-project-marketing)
+- [Marketing Checklist](https://github.com/portable-cto/side-project-marketing)
 - [Sales Checklist](https://github.com/portable-cto/side-project-sales)
 - [Static Site](https://github.com/portable-cto/side-project-checklist)
 
