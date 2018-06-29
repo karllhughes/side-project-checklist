@@ -8,7 +8,7 @@ const checklistPaths = [
     permalink: '/marketing-checklist/',
   },
   {
-    origin: 'https://raw.githubusercontent.com/karllhughes/side-project-sales/master/sales-checklist.md',
+    origin: 'https://raw.githubusercontent.com/portable-cto/side-project-sales/master/sales-checklist.md',
     destination: './sales-checklist.md',
     title: 'Side Project Sales Checklist',
     permalink: '/sales-checklist/',

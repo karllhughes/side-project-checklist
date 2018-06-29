@@ -7,8 +7,8 @@ permalink: /contributing/
 As with any open source project, we welcome contributors! Submit an issue or pull request with your improvements or suggestions to the appropriate repository listed here:
 
 - [Marketing Checklist](https://github.com/karllhughes/side-project-marketing)
-- [Sales Checklist](https://github.com/karllhughes/side-project-sales)
-- [Static Site](https://github.com/karllhughes/side-project-checklist)
+- [Sales Checklist](https://github.com/portable-cto/side-project-sales)
+- [Static Site](https://github.com/portable-cto/side-project-checklist)
 
 All contributors are expected to adhere to the Code of Conduct listed below. For more information on contributions, check out the [Making a Contribution blog post](/2017/making-a-contribution/).
 
