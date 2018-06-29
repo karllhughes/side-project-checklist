@@ -2,7 +2,7 @@ const http = require('https');
 const fs = require('fs');
 const checklistPaths = [
   {
-    origin: 'https://raw.githubusercontent.com/karllhughes/side-project-marketing/master/marketing-checklist.md',
+    origin: 'https://raw.githubusercontent.com/portable-cto/side-project-marketing/master/marketing-checklist.md',
     destination: './marketing-checklist.md',
     title: 'Side Project Marketing Checklist',
     permalink: '/marketing-checklist/',
