@@ -18,6 +18,8 @@
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="recHHkU6HbSm7Gmvs">&#x25B2; <span class="count">0</span></a> &nbsp;**[MonitorBacklinks](https://monitorbacklinks.com/)** <span style="color: grey;">($24.9)</span> - Your existing competition may have a number of strong links that have helped them jump to the top of search results. Knowing what they are can help you get your site ranked above them.
 
+- <a href="#vote-form" class="vote-link" rel="modal:open" id="recFy6yiGCz7IIuGm">&#x25B2; <span class="count">0</span></a> &nbsp;**[Page Delta](https://pagedelta.com/)** <span style="color: grey;">($0)</span> - Monitors websites and notifies you of any changes, instantly. Monitor up to 3 pages for free.
+
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="recFXrj6frZ9C2evA">&#x25B2; <span class="count">0</span></a> &nbsp;**[Product Hunt](https://www.producthunt.com/)** <span style="color: grey;">($0)</span> - If you’re into startups, you have probably heard of Product Hunt. It helps you find new products by emailing newly submitted products every day (or week) and does a pretty good job categorizing submissions.
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="reckEL0KG2Ax3mGI6">&#x25B2; <span class="count">0</span></a> &nbsp;**[ScoutZen](https://www.scoutzen.com/)** <span style="color: grey;">($0)</span> - Use ScoutZen to track a competitor’s followers/following on Twitter, as well as to monitor for mentions of your competition with automated advanced Twitter searches.
