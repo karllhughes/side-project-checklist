@@ -10,6 +10,8 @@
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="recc1fMBKyh38QvlJ">&#x25B2; <span class="count">0</span></a> &nbsp;**[Design Wizard](https://designwizard.com/)** <span style="color: grey;">($0)</span> - Create highly visual content in minutes with over 17,000 templates and 1.2 million images.
 
+- <a href="#vote-form" class="vote-link" rel="modal:open" id="recDZHBLuwrbaa2iR">&#x25B2; <span class="count">0</span></a> &nbsp;**[Free Gaming Logo](https://www.freegaminglogo.com)** <span style="color: grey;">($0)</span> - Free gaming concept logo designs under CC BY 4.0 license and famous eSports team logos with vector download.
+
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="recwv6xtQdjHdJCOy">&#x25B2; <span class="count">0</span></a> &nbsp;**[Free Minimal Logos](http://freeminimallogos.com/)** <span style="color: grey;">($0)</span> - Focused on minimal, monochromatic logos free for use in commercial projects.
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="recRMbcGBw9ZPkzXo">&#x25B2; <span class="count">0</span></a> &nbsp;**[Logo Foundry](http://www.logomakerapp.com)** <span style="color: grey;">($0)</span> - Free professional logo design software with ease of use kept at the top of the priority list.
