@@ -1,3 +1,5 @@
+- <a href="#vote-form" class="vote-link" rel="modal:open" id="recJyfknbN19UIveW">&#x25B2; <span class="count">2</span></a> &nbsp;**[Intercom](https://www.intercom.com/)** <span style="color: grey;">($49)</span> - Intercom is probably the most well-known player in this space. Their offerings now border on complete customer and sales solutions, but you can just use them for chat as well.
+
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="rec0Eu2iiyCUptcyf">&#x25B2; <span class="count">1</span></a> &nbsp;**[Altocloud](https://www.altocloud.com/)** <span style="color: grey;">($49)</span> - In addition to chat, Altocloud gives you customer journeys, predictive analytics and more.
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="rec6SRq2RKoghWo9j">&#x25B2; <span class="count">1</span></a> &nbsp;**[Autopilot](https://autopilothq.com/)** <span style="color: grey;">($19.99)</span> - Autopilot covers more than just in-app chat; you can use it to build complex customer journeys as well.
@@ -5,8 +7,6 @@
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="recbMUZrbuWUsa8Yv">&#x25B2; <span class="count">1</span></a> &nbsp;**[Chatra](https://chatra.io/)** <span style="color: grey;">($0)</span> - You can either wait for visitors to ask you questions or proactively engage them on your sales pages.
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="recettlNbB84tfleJ">&#x25B2; <span class="count">1</span></a> &nbsp;**[Crisp.chat](https://crisp.chat/en/)** <span style="color: grey;">($0)</span> - Crisp offers a free tier for small businesses with just one or two customer service reps, so this could be perfect for a side project just getting started.
-
-- <a href="#vote-form" class="vote-link" rel="modal:open" id="recJyfknbN19UIveW">&#x25B2; <span class="count">1</span></a> &nbsp;**[Intercom](https://www.intercom.com/)** <span style="color: grey;">($49)</span> - Intercom is probably the most well-known player in this space. Their offerings now border on complete customer and sales solutions, but you can just use them for chat as well.
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="recLX1ipMuwwFuh3N">&#x25B2; <span class="count">0</span></a> &nbsp;**[Chat.io](https://www.chat.io/)** <span style="color: grey;">($10)</span> - Has a Facebook integration that lets you handle Messenger conversations along with chats from website in one app. $10/month with a 14-day free trial.
 
