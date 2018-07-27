@@ -2,6 +2,8 @@
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="recK7omrRk9z6QtXF">&#x25B2; <span class="count">1</span></a> &nbsp;**[AngelList](https://angel.co/)** <span style="color: grey;">($0)</span> - Many startups create profiles on AngelList for hiring and promotional purposes, but you can also use it to learn about your competition and their history.
 
+- <a href="#vote-form" class="vote-link" rel="modal:open" id="recFy6yiGCz7IIuGm">&#x25B2; <span class="count">1</span></a> &nbsp;**[Page Delta](https://pagedelta.com/)** <span style="color: grey;">($0)</span> - Monitors websites and notifies you of any changes, instantly. Monitor up to 3 pages for free.
+
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="recIMNqC5qtKwyPbL">&#x25B2; <span class="count">0</span></a> &nbsp;**[AlternativeTo](https://alternativeto.net/)** <span style="color: grey;">($0)</span> - If you know your product is similar to at least one other site, you can use AlternativeTo to find dozens of alternatives to that site.
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="recjL4hUW1I8JEtx5">&#x25B2; <span class="count">0</span></a> &nbsp;**[Competeshark](https://competeshark.com/)** <span style="color: grey;">($89)</span> - Imagine being able to see details on your competitors’ marketing campaigns. That’s the premise of Competeshark’s service.
@@ -17,8 +19,6 @@
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="recLrDKKpVTXtTLZl">&#x25B2; <span class="count">0</span></a> &nbsp;**[Linkedin](https://www.linkedin.com/)** <span style="color: grey;">($0)</span> - Just about everyone has a Linkedin account, so it’s a great way to research your competition’s company, founders, employees, and even open job listings.
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="recHHkU6HbSm7Gmvs">&#x25B2; <span class="count">0</span></a> &nbsp;**[MonitorBacklinks](https://monitorbacklinks.com/)** <span style="color: grey;">($24.9)</span> - Your existing competition may have a number of strong links that have helped them jump to the top of search results. Knowing what they are can help you get your site ranked above them.
-
-- <a href="#vote-form" class="vote-link" rel="modal:open" id="recFy6yiGCz7IIuGm">&#x25B2; <span class="count">0</span></a> &nbsp;**[Page Delta](https://pagedelta.com/)** <span style="color: grey;">($0)</span> - Monitors websites and notifies you of any changes, instantly. Monitor up to 3 pages for free.
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="recFXrj6frZ9C2evA">&#x25B2; <span class="count">0</span></a> &nbsp;**[Product Hunt](https://www.producthunt.com/)** <span style="color: grey;">($0)</span> - If you’re into startups, you have probably heard of Product Hunt. It helps you find new products by emailing newly submitted products every day (or week) and does a pretty good job categorizing submissions.
 
