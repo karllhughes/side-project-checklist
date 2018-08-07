@@ -47,5 +47,7 @@ It's easy to use, fully customizable and made for lead capturing.
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="recJNKdg2x2GgrshZ">&#x25B2; <span class="count">0</span></a> &nbsp;**[UserDeck](https://userdeck.com/conversations)** <span style="color: grey;">($10)</span> - Provides in-app chat as well as an FAQ service for your customers.
 
+- <a href="#vote-form" class="vote-link" rel="modal:open" id="recU0uo3vw4PtwLgR">&#x25B2; <span class="count">0</span></a> &nbsp;**[WG Live Chat Software](https://www.liveadmins.com/)** <span style="color: grey;">($20)</span> - LiveAdmins is one of the world's leading providers of live chat software and services. Their solutions ensure customer satisfaction, multilingual support, and a high ROI. Each innovative solution is easy to set-up, fully customizable and available round-the-clock - catering to over 10 industries across 8 time zones.
+
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="reca2y4I1derzPA73">&#x25B2; <span class="count">0</span></a> &nbsp;**[Zendesk](https://www.zendesk.com/chat/)** <span style="color: grey;">($5)</span> - You may be familiar with Zendesk for customer support, but they also have a full-service chat feature for your site.
 
