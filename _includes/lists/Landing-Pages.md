@@ -57,6 +57,8 @@ It's easy to use, fully customizable and made for lead capturing.
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="recVMB2751aVAZGpQ">&#x25B2; <span class="count">0</span></a> &nbsp;**[Unbounce](https://unbounce.com/)** <span style="color: grey;">($79)</span> - Their editor gives you lots of options, plus they give you some analytics, the ability to A/B test, and much more.
 
+- <a href="#vote-form" class="vote-link" rel="modal:open" id="recGge3XWdsu5bZrZ">&#x25B2; <span class="count">0</span></a> &nbsp;**[Unicorn Platform](https://unicornplatform.com/)** <span style="color: grey;">($16)</span> - Unicorn Platform is a modern landing page generator for makers.
+
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="recLc6wCBwxNQjMYq">&#x25B2; <span class="count">0</span></a> &nbsp;**[Weebly](https://www.weebly.com/)** <span style="color: grey;">($0)</span> - Weebly is a great all-in-one website and blog creator with many templates and tools to choose from.
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="recM6xBtnS4rayqKF">&#x25B2; <span class="count">0</span></a> &nbsp;**[Wix](https://www.wix.com/)** <span style="color: grey;">($0)</span> - Wix gives you everything you need for a stunning website or blog and it's free.
