@@ -1,4 +1,4 @@
-- <a href="#vote-form" class="vote-link" rel="modal:open" id="recQ1ucXvR2ucZLWF">&#x25B2; <span class="count">3</span></a> &nbsp;**[PRnob.com](http://www.PRnob.com)** <span style="color: grey;">($29)</span> - Get your press release published on 10000+ news and media outlets.
+- <a href="#vote-form" class="vote-link" rel="modal:open" id="recQ1ucXvR2ucZLWF">&#x25B2; <span class="count">2</span></a> &nbsp;**[PRnob.com](http://www.PRnob.com)** <span style="color: grey;">($29)</span> - Get your press release published on 10000+ news and media outlets.
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="rec5ERVDIaVTdhKck">&#x25B2; <span class="count">1</span></a> &nbsp;**[Find-me](https://www.find-me.co/)** <span style="color: grey;">($9)</span> - A massive list of bloggers that you pay just $9/month for access to.
 

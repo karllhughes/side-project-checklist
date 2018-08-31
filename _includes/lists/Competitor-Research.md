@@ -1,10 +1,10 @@
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="recFRe7tIQW3j5YQv">&#x25B2; <span class="count">2</span></a> &nbsp;**[Alexa](https://www.alexa.com/find-similar-sites)** <span style="color: grey;">($0)</span> - Alexa’s similar site tool uses audience overlap rather than site content to determine similarity.
 
-- <a href="#vote-form" class="vote-link" rel="modal:open" id="recK7omrRk9z6QtXF">&#x25B2; <span class="count">1</span></a> &nbsp;**[AngelList](https://angel.co/)** <span style="color: grey;">($0)</span> - Many startups create profiles on AngelList for hiring and promotional purposes, but you can also use it to learn about your competition and their history.
-
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="recFy6yiGCz7IIuGm">&#x25B2; <span class="count">1</span></a> &nbsp;**[Page Delta](https://pagedelta.com/)** <span style="color: grey;">($0)</span> - Monitors websites and notifies you of any changes, instantly. Monitor up to 3 pages for free.
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="recIMNqC5qtKwyPbL">&#x25B2; <span class="count">0</span></a> &nbsp;**[AlternativeTo](https://alternativeto.net/)** <span style="color: grey;">($0)</span> - If you know your product is similar to at least one other site, you can use AlternativeTo to find dozens of alternatives to that site.
+
+- <a href="#vote-form" class="vote-link" rel="modal:open" id="recK7omrRk9z6QtXF">&#x25B2; <span class="count">0</span></a> &nbsp;**[AngelList](https://angel.co/)** <span style="color: grey;">($0)</span> - Many startups create profiles on AngelList for hiring and promotional purposes, but you can also use it to learn about your competition and their history.
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="recjL4hUW1I8JEtx5">&#x25B2; <span class="count">0</span></a> &nbsp;**[Competeshark](https://competeshark.com/)** <span style="color: grey;">($89)</span> - Imagine being able to see details on your competitors’ marketing campaigns. That’s the premise of Competeshark’s service.
 
