@@ -14,6 +14,8 @@
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="recwv6xtQdjHdJCOy">&#x25B2; <span class="count">0</span></a> &nbsp;**[Free Minimal Logos](http://freeminimallogos.com/)** <span style="color: grey;">($0)</span> - Focused on minimal, monochromatic logos free for use in commercial projects.
 
+- <a href="#vote-form" class="vote-link" rel="modal:open" id="recIakDbozBNK27WL">&#x25B2; <span class="count">0</span></a> &nbsp;**[Google Fonts](https://fonts.google.com/)** <span style="color: grey;">($0)</span> - Free fonts and typography tools for the web.
+
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="recRMbcGBw9ZPkzXo">&#x25B2; <span class="count">0</span></a> &nbsp;**[Logo Foundry](http://www.logomakerapp.com)** <span style="color: grey;">($0)</span> - Free professional logo design software with ease of use kept at the top of the priority list.
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="recjS90FArgBVk4cH">&#x25B2; <span class="count">0</span></a> &nbsp;**[LogoDust](http://logodust.com/)** <span style="color: grey;">($0)</span> - Download free logos or purchase a unique mark for your project with exclusive use rights.

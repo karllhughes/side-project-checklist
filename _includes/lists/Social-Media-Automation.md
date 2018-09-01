@@ -12,7 +12,11 @@
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="recvuVzSlMqV0cUCW">&#x25B2; <span class="count">0</span></a> &nbsp;**[Coschedule ReQueue](https://coschedule.com/requeue)** <span style="color: grey;">($40)</span> - Requeue works much like Buffer, but it continues recycling updates after the first share, allowing you to sit back and know that your social channels are full of content.
 
+- <a href="#vote-form" class="vote-link" rel="modal:open" id="rec61U779OgfDeGk9">&#x25B2; <span class="count">0</span></a> &nbsp;**[F5Bot](https://f5bot.com/)** <span style="color: grey;">($0)</span> - A free service that emails you when your selected keywords are mentioned on Reddit, Hacker News, or Lobsters. Use it to monitor your brand, your projects, or just topics that you're interested in.
+
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="recyWgh6MeixXnj7Q">&#x25B2; <span class="count">0</span></a> &nbsp;**[Hootsuite](https://hootsuite.com/)** <span style="color: grey;">($0)</span> - Much like Tweetdeck, Hootsuite helps you manage multiple Twitter accounts, but Hootsuite takes it further. You can also schedule posts to other social networks, find new content automatically, and track your posts’ performance.
+
+- <a href="#vote-form" class="vote-link" rel="modal:open" id="rec9mQF4Y8eQZhYez">&#x25B2; <span class="count">0</span></a> &nbsp;**[How Does It Look on Social?](https://social.pilcro.com/)** <span style="color: grey;">($0)</span> - Preview your site, landing page, or blog posts on social media before publishing them.
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="recmqgLO52n31e4B5">&#x25B2; <span class="count">0</span></a> &nbsp;**[Hubspot](https://www.hubspot.com/products/marketing/social-inbox)** <span style="color: grey;">($0)</span> - As part of Hubspot’s marketing platform, you get a social media management tool.
 
@@ -21,6 +25,8 @@
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="recTmONQuMwT0PGH0">&#x25B2; <span class="count">0</span></a> &nbsp;**[OneUp](https://www.oneupapp.io/)** <span style="color: grey;">($7.99)</span> - OneUp will republish your top performing evergreen content to get more out of each post.
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="recO0kZNMEK1axc2o">&#x25B2; <span class="count">0</span></a> &nbsp;**[PowerPost](https://www.powerpost.digital/)**  - Scheduling and planning blog posts, sharing them to all your social channels, and keeping everything organized with a team is challenging. PowerPost makes it much easier.
+
+- <a href="#vote-form" class="vote-link" rel="modal:open" id="recHe0dGVoRKtoREL">&#x25B2; <span class="count">0</span></a> &nbsp;**[Ritekit](http://ritekit.com/)** <span style="color: grey;">($12)</span> - My favorite social media automation tool because it will enhance your posts with hashtags, images, and mentions.
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="recNtIFLfzzKzBrdN">&#x25B2; <span class="count">0</span></a> &nbsp;**[SocialSprinters](http://www.shareasale.com/r.cfm?b=1069675&u=1653894&m=74517)** <span style="color: grey;">($49)</span> - Add professional applications to your Facebook Page and start collecting new leads, sales or just entertain your customers. Everything by yourself in a few minutes.
 
