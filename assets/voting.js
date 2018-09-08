@@ -23,7 +23,7 @@ $('#vote-form').submit(function (event) {
   // Make the Ajax call to save the vote
   $.ajax({
     type: "POST",
-    url: "https://www.sideprojectchecklist.com/api/appsWmNYoIAPDCz8V/Votes",
+    url: "https://www.sideprojectchecklist.com/api/Votes",
     data: JSON.stringify({
       fields: {
         Email: data.email,
