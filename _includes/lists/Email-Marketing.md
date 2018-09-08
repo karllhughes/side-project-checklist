@@ -8,6 +8,8 @@
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="rec5zrdE6hjzog5Te">&#x25B2; <span class="count">1</span></a> &nbsp;**[Mautic](https://www.mautic.org/)** <span style="color: grey;">($0)</span> - Mautic offers a whole suite of open source marketing automation software. I still haven’t tried it, but I’ve heard good things.
 
+- <a href="#vote-form" class="vote-link" rel="modal:open" id="recNVcOWLJTDC358U">&#x25B2; <span class="count">1</span></a> &nbsp;**[RSS-To-Email](https://email.pcto.co/)** <span style="color: grey;">($0)</span> - An open source tool similar to Revue. Can turn your RSS feeds into an HTML email newsletter that you can send with your service of choice.
+
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="recKOUIIXnFNc6a3J">&#x25B2; <span class="count">0</span></a> &nbsp;**[ActiveCampaign](http://www.activecampaign.com/)** <span style="color: grey;">($9)</span> - Lets you create automated marketing workflows as well as manage emails and newsletters.
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="reccjnAOHhW9MJfX1">&#x25B2; <span class="count">0</span></a> &nbsp;**[ActiveTrail](https://www.activetrail.com/email_marketing_software/)** <span style="color: grey;">($7)</span>
@@ -67,8 +69,6 @@
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="recHTtJeJZbTBpODw">&#x25B2; <span class="count">0</span></a> &nbsp;**[Mustache](https://mustache.website/index.html)** <span style="color: grey;">($0)</span> - Free email marketing solution for businesses.
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="recU25eP0Xmdoi01K">&#x25B2; <span class="count">0</span></a> &nbsp;**[Privy](https://privy.com/)** <span style="color: grey;">($0)</span> - Privy helps you build popups, landing pages, spin to win campaigns and more to capture new contacts and grow your email list.
-
-- <a href="#vote-form" class="vote-link" rel="modal:open" id="recNVcOWLJTDC358U">&#x25B2; <span class="count">0</span></a> &nbsp;**[RSS-To-Email](https://email.pcto.co/)** <span style="color: grey;">($0)</span> - An open source tool similar to Revue. Can turn your RSS feeds into an HTML email newsletter that you can send with your service of choice.
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="reccCaR429OO6M1wv">&#x25B2; <span class="count">0</span></a> &nbsp;**[ReachMail](https://www.reachmail.net/)** <span style="color: grey;">($0)</span>
 

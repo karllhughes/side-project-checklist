@@ -6,8 +6,6 @@
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="recLxG3XEnQjQDceS">&#x25B2; <span class="count">1</span></a> &nbsp;**[Pexels](https://www.pexels.com/)** <span style="color: grey;">($0)</span> - Lots of great photos with an interesting leaderboard for contributors.
 
-- <a href="#vote-form" class="vote-link" rel="modal:open" id="recPdZ2eNlR9MaeBF">&#x25B2; <span class="count">1</span></a> &nbsp;**[Stockio](https://www.stockio.com/)** <span style="color: grey;">($0)</span> - Thousands of free photos licensed in multiple categories such as nature, abstract, models and many more. No attribution is required.
-
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="recIS5H5VaUJ83d6w">&#x25B2; <span class="count">0</span></a> &nbsp;**[AllTheFreeStock](http://allthefreestock.com/)** <span style="color: grey;">($0)</span> - Get all the free stock images, videos, music, and icons under the Creative Commons Zero license.
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="recQAqPHrnZy66zov">&#x25B2; <span class="count">0</span></a> &nbsp;**[Burst by Shopify](https://burst.shopify.com/)** <span style="color: grey;">($0)</span> - Their collections offer nice groupings of photos for specific use cases.
@@ -57,4 +55,6 @@
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="reckhEhXvmHqvXzLk">&#x25B2; <span class="count">0</span></a> &nbsp;**[StockSnap.io](https://stocksnap.io/)** <span style="color: grey;">($0)</span> - Hundreds of free, high resolution images added weekly.
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="rec7YdiRb0vzYkjIk">&#x25B2; <span class="count">0</span></a> &nbsp;**[Stockified](https://www.stockified.com/)** <span style="color: grey;">($0)</span> - The search isn't great, but the photos are pretty interesting.
+
+- <a href="#vote-form" class="vote-link" rel="modal:open" id="recPdZ2eNlR9MaeBF">&#x25B2; <span class="count">0</span></a> &nbsp;**[Stockio](https://www.stockio.com/)** <span style="color: grey;">($0)</span> - Thousands of free photos licensed in multiple categories such as nature, abstract, models and many more. No attribution is required.
 
