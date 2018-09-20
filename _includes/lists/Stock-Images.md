@@ -4,7 +4,7 @@
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="recraQ95TrgamaNGc">&#x25B2; <span class="count">4</span></a> &nbsp;**[Moose](https://photos.icons8.com/)** <span style="color: grey;">($0)</span> - Stock Photos Designed to Work Together — For Free
 
-- <a href="#vote-form" class="vote-link" rel="modal:open" id="recLxG3XEnQjQDceS">&#x25B2; <span class="count">1</span></a> &nbsp;**[Pexels](https://www.pexels.com/)** <span style="color: grey;">($0)</span> - Lots of great photos with an interesting leaderboard for contributors.
+- <a href="#vote-form" class="vote-link" rel="modal:open" id="recLxG3XEnQjQDceS">&#x25B2; <span class="count">2</span></a> &nbsp;**[Pexels](https://www.pexels.com/)** <span style="color: grey;">($0)</span> - Lots of great photos with an interesting leaderboard for contributors.
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="recIS5H5VaUJ83d6w">&#x25B2; <span class="count">0</span></a> &nbsp;**[AllTheFreeStock](http://allthefreestock.com/)** <span style="color: grey;">($0)</span> - Get all the free stock images, videos, music, and icons under the Creative Commons Zero license.
 
