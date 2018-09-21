@@ -53,6 +53,8 @@ It's easy to use, fully customizable and made for lead capturing.
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="recdPZSgCOSW3DUzz">&#x25B2; <span class="count">0</span></a> &nbsp;**[Stitcher](https://www.stitcher.io/)** <span style="color: grey;">($0)</span> - A PHP-based static site generator.
 
+- <a href="#vote-form" class="vote-link" rel="modal:open" id="rec4eGuMssS0zqctj">&#x25B2; <span class="count">0</span></a> &nbsp;**[Stitches](http://stitches.hyperyolo.com)** <span style="color: grey;">($0)</span> - A template generator that generates HTML templates with functional css in few seconds.
+
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="recbNP07JSyHr8iTY">&#x25B2; <span class="count">0</span></a> &nbsp;**[Thrive Themes](https://thrivethemes.com/)** <span style="color: grey;">($19)</span> - If you use Wordpress, Thrive Themes has some great landing-page focused themes.
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="recVMB2751aVAZGpQ">&#x25B2; <span class="count">0</span></a> &nbsp;**[Unbounce](https://unbounce.com/)** <span style="color: grey;">($79)</span> - Their editor gives you lots of options, plus they give you some analytics, the ability to A/B test, and much more.
