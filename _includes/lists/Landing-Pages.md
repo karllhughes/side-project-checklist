@@ -8,6 +8,8 @@
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="recaWfeFkzmDAwjm7">&#x25B2; <span class="count">1</span></a> &nbsp;**[Jekyll](https://jekyllrb.com/)** <span style="color: grey;">($0)</span> - If you don’t mind writing a little HTML yourself, Jekyll is an awesome landing page and blogging platform. It can scale pretty much infinitely and it’s free to use with Github pages.
 
+- <a href="#vote-form" class="vote-link" rel="modal:open" id="recGge3XWdsu5bZrZ">&#x25B2; <span class="count">1</span></a> &nbsp;**[Unicorn Platform](https://unicornplatform.com/)** <span style="color: grey;">($16)</span> - Unicorn Platform is a modern landing page generator for makers.
+
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="recrYCgJKq5QjuCZB">&#x25B2; <span class="count">0</span></a> &nbsp;**[Carrd](https://carrd.co/)** <span style="color: grey;">($2)</span> - Simple to use and free to get started.
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="recP40fZN6NpvGji5">&#x25B2; <span class="count">0</span></a> &nbsp;**[Elementor](https://elementor.com/)** <span style="color: grey;">($0)</span> - Specifically for Wordpress, Elementor gives you an interface for editing your site without code.
@@ -58,8 +60,6 @@ It's easy to use, fully customizable and made for lead capturing.
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="recbNP07JSyHr8iTY">&#x25B2; <span class="count">0</span></a> &nbsp;**[Thrive Themes](https://thrivethemes.com/)** <span style="color: grey;">($19)</span> - If you use Wordpress, Thrive Themes has some great landing-page focused themes.
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="recVMB2751aVAZGpQ">&#x25B2; <span class="count">0</span></a> &nbsp;**[Unbounce](https://unbounce.com/)** <span style="color: grey;">($79)</span> - Their editor gives you lots of options, plus they give you some analytics, the ability to A/B test, and much more.
-
-- <a href="#vote-form" class="vote-link" rel="modal:open" id="recGge3XWdsu5bZrZ">&#x25B2; <span class="count">0</span></a> &nbsp;**[Unicorn Platform](https://unicornplatform.com/)** <span style="color: grey;">($16)</span> - Unicorn Platform is a modern landing page generator for makers.
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="recLc6wCBwxNQjMYq">&#x25B2; <span class="count">0</span></a> &nbsp;**[Weebly](https://www.weebly.com/)** <span style="color: grey;">($0)</span> - Weebly is a great all-in-one website and blog creator with many templates and tools to choose from.
 
