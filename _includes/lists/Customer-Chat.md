@@ -37,6 +37,8 @@ It's easy to use, fully customizable and made for lead capturing.
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="recpiFsVUK9XkKi4L">&#x25B2; <span class="count">0</span></a> &nbsp;**[Resend](https://resend.io/)**  - Very similar to Intercom in the way they’ve built their product.
 
+- <a href="#vote-form" class="vote-link" rel="modal:open" id="recSoydONN4Ag1nv9">&#x25B2; <span class="count">0</span></a> &nbsp;**[Rocketbots](https://rocketbots.io/)** <span style="color: grey;">($19)</span> - Rocketbots uses AI to learn from customer chats, suggests replies and automates conversations across live chat or messaging apps.
+
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="recTjTM0gBEFbOD1X">&#x25B2; <span class="count">0</span></a> &nbsp;**[Smallchat](https://small.chat/)** <span style="color: grey;">($0)</span> - Smallchat hooks into your existing Slack channel to allow you to talk with customers on your site, and they offer a free plan.
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="recCA09FnmpwQ7tZ6">&#x25B2; <span class="count">0</span></a> &nbsp;**[Subiz](https://subiz.com/)** <span style="color: grey;">($9.59)</span> - Analytics for your visitors is included in their chat platform.
