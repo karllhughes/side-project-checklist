@@ -11,7 +11,7 @@ I'm a big fan of contacting bloggers and journalists directly, but it's incredib
 
 ![](https://i.imgur.com/WKeFgOK.jpg)
 
-I took to Quora and asked our readers at the Side Project Checklist to weigh in, and here are the press release tools we came up with. If you have other suggestions for me, feel free to [submit them via Airtable](https://airtable.com/shrwrPOxd0wlqoiZb), and don't forget to vote on your favorites!
+I took to Quora and asked our readers at the Side Project Checklist to weigh in, and here are the press release tools we came up with. If you have other suggestions for me, feel free to [submit them here](https://www.portablecto.com/tools/submit), and don't forget to vote on your favorites!
 
 {% include featured-banner.html %}
 
@@ -21,4 +21,4 @@ I took to Quora and asked our readers at the Side Project Checklist to weigh in,
 
 -----
 
-Did I miss a tool that you love? [Submit your suggestions here](https://airtable.com/shrwrPOxd0wlqoiZb), or [email me](mailto:marketing@portablecto.com) to suggest an update.
+Did I miss a tool that you love? [Submit your suggestions here](https://www.portablecto.com/tools/submit), or [email me](mailto:marketing@portablecto.com) to suggest an update.
