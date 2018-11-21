@@ -23,4 +23,4 @@ To help you get started, we've created this comprehensive list of customer chat 
 
 -----
 
-Did I miss a tool that you love? [Submit your suggestions here](https://airtable.com/shrwrPOxd0wlqoiZb), or [email me](mailto:marketing@portablecto.com) to suggest an update.
+Did I miss a tool that you love? [Submit your suggestions here](https://www.portablecto.com/tools/submit), or [email me](mailto:marketing@portablecto.com) to suggest an update.

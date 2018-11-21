@@ -25,4 +25,4 @@ In this list we've included tools to help you find similar services and products
 
 -----
 
-Did I miss a tool that you love? [Submit your suggestions here](https://airtable.com/shrwrPOxd0wlqoiZb), or [email me](mailto:marketing@portablecto.com) to suggest an update.
+Did I miss a tool that you love? [Submit your suggestions here](https://www.portablecto.com/tools/submit), or [email me](mailto:marketing@portablecto.com) to suggest an update.
