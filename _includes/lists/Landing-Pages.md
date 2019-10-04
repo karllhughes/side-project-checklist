@@ -4,11 +4,11 @@
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="recV4emXAKN7o472C">&#x25B2; <span class="count">2</span></a> &nbsp;**[Squarespace](https://www.squarespace.com/)** <span style="color: grey;">($12)</span> - Squarespace is my go-to recommendation for non-technical people who need a website. Squarespace works just as well for basic landing pages as it does for a full-featured website and blog.
 
+- <a href="#vote-form" class="vote-link" rel="modal:open" id="recGge3XWdsu5bZrZ">&#x25B2; <span class="count">2</span></a> &nbsp;**[Unicorn Platform](https://unicornplatform.com/)** <span style="color: grey;">($16)</span> - Unicorn Platform is a modern landing page generator for makers.
+
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="rectVKb54YRr5wWVL">&#x25B2; <span class="count">1</span></a> &nbsp;**[ClickFunnels](https://www.clickfunnels.com/)** <span style="color: grey;">($97)</span> - Very linear landing page experience, but a bit pricey.
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="recaWfeFkzmDAwjm7">&#x25B2; <span class="count">1</span></a> &nbsp;**[Jekyll](https://jekyllrb.com/)** <span style="color: grey;">($0)</span> - If you don’t mind writing a little HTML yourself, Jekyll is an awesome landing page and blogging platform. It can scale pretty much infinitely and it’s free to use with Github pages.
-
-- <a href="#vote-form" class="vote-link" rel="modal:open" id="recGge3XWdsu5bZrZ">&#x25B2; <span class="count">1</span></a> &nbsp;**[Unicorn Platform](https://unicornplatform.com/)** <span style="color: grey;">($16)</span> - Unicorn Platform is a modern landing page generator for makers.
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="recrYCgJKq5QjuCZB">&#x25B2; <span class="count">0</span></a> &nbsp;**[Carrd](https://carrd.co/)** <span style="color: grey;">($2)</span> - Simple to use and free to get started.
 
