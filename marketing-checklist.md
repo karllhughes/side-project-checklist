@@ -322,8 +322,12 @@ This section pairs nicely with the [Post-Launch section of the Sales Checklist](
 - [ ] Create an FAQs page.
 - [ ] Verify your website's tags are correct with [Google Tag Assistant](https://get.google.com/tagassistant/).
 - [ ] Watch a first time user use your product.
+- [ ] Watch users behavior use your product's page with Hotjar.com.
+- [ ] Create Heatmaps of your pages in order to analyse the friction in your call-to-action.
 - [ ] Collect and display testimonials from happy users.
 - [ ] Survey or poll your users for feedback (see our [list of survey tools for lots of great options at any budget]
 (https://www.sideprojectchecklist.com/2017/survey-tools)).
 - [ ] Use [Monkey Test It](https://monkeytest.it/) to find bugs and broken links of your site. Set up an alert to notify you on breakage.
 
+## Public Relations (PR)
+- [ ] Sign up in HARO (helpareporter.com) to get in contact with journalists of big companies such as buzzfeed, entrepreneur, techcrunch and other via daily email. That way you can get FREE backlink and mentions of your product in high relevant companies (cost $0). (more info: https://backlinko.com/build-awesome-backlinks)
