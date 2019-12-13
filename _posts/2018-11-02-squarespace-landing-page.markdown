@@ -9,7 +9,7 @@ categories:
   - landing pages
 ---
 
-Conversion metrics are a concrete way to tell if your startup is on track for success. If you're getting email list subscribers, social media shares, and, most importantly, sales, you *know* that your strategies are working. If you aren't obtaining conversions, you'll want to try some new tactics. [Squarespace](www.squarespace.com)—a website builder and hosting service—features numerous tools you can use to increase your conversions.
+Conversion metrics are a concrete way to tell if your startup is on track for success. If you're getting email list subscribers, social media shares, and, most importantly, sales, you *know* that your strategies are working. If you aren't obtaining conversions, you'll want to try some new tactics. [Squarespace](https://www.squarespace.com)—a website builder and hosting service—features numerous tools you can use to increase your conversions.
 
 ### How Squarespace Can Help
 
