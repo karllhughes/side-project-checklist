@@ -2,9 +2,9 @@
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="recuqNefBxjQF8t5L">&#x25B2; <span class="count">4</span></a> &nbsp;**[Landing Lion](https://www.landinglion.com/)** <span style="color: grey;">($0)</span> - A simple drag and drop interface is included.
 
-- <a href="#vote-form" class="vote-link" rel="modal:open" id="recV4emXAKN7o472C">&#x25B2; <span class="count">2</span></a> &nbsp;**[Squarespace](https://www.squarespace.com/)** <span style="color: grey;">($12)</span> - Squarespace is my go-to recommendation for non-technical people who need a website. Squarespace works just as well for basic landing pages as it does for a full-featured website and blog.
+- <a href="#vote-form" class="vote-link" rel="modal:open" id="recGge3XWdsu5bZrZ">&#x25B2; <span class="count">3</span></a> &nbsp;**[Unicorn Platform](https://unicornplatform.com/)** <span style="color: grey;">($16)</span> - Unicorn Platform is a modern landing page generator for makers.
 
-- <a href="#vote-form" class="vote-link" rel="modal:open" id="recGge3XWdsu5bZrZ">&#x25B2; <span class="count">2</span></a> &nbsp;**[Unicorn Platform](https://unicornplatform.com/)** <span style="color: grey;">($16)</span> - Unicorn Platform is a modern landing page generator for makers.
+- <a href="#vote-form" class="vote-link" rel="modal:open" id="recV4emXAKN7o472C">&#x25B2; <span class="count">2</span></a> &nbsp;**[Squarespace](https://www.squarespace.com/)** <span style="color: grey;">($12)</span> - Squarespace is my go-to recommendation for non-technical people who need a website. Squarespace works just as well for basic landing pages as it does for a full-featured website and blog.
 
 - <a href="#vote-form" class="vote-link" rel="modal:open" id="rectVKb54YRr5wWVL">&#x25B2; <span class="count">1</span></a> &nbsp;**[ClickFunnels](https://www.clickfunnels.com/)** <span style="color: grey;">($97)</span> - Very linear landing page experience, but a bit pricey.
 
