@@ -21,7 +21,7 @@ Head over Squarespace to start a free trial. You have 14 days before you have to
 
 ### Supercharging Your Email List
 
-Once you've chosen a cover page, it's time to [integrate a mailing list signup box](https://www.sideprojectchecklist.com/2017/email-marketing-tools/). The picture below shows a perfect example of a cover page which is designed to convert website visitors into subscribers of an email list.
+Once you've chosen a cover page, it's time to [integrate a mailing list signup box](https://learn.draft.dev/tools/email-marketing). The picture below shows a perfect example of a cover page which is designed to convert website visitors into subscribers of an email list.
 
 ![](https://i.imgur.com/bqwV4pZ.png)
 
