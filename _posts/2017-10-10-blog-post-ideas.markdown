@@ -36,7 +36,7 @@ Over the past few years, I've written a lot of blog posts and I've seen a lot of
 - Interview a professor, recent graduate, or someone who just retired from your industry.
 - Interview speakers or sponsors at a conference.
 - Ask a question or conduct a poll on [Twitter](https://twitter.com/) and share the results.
-- Do a survey with Survey Monkey among your community members and create an infographic based on the results.
+- Do a survey with Survey Monkey (or [one of these other tools](https://draft.dev/learn/tools/surveys)) among your community members and create an infographic based on the results.
 - Get experts to offer a tip and do a round-up of their recommendations.
 - Feature guest posts from industry experts.
 
