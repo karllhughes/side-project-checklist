@@ -1,8 +1,5 @@
 language: node_js
 node_js:
  - "9"
-script:
- - npm run gen:products
- - npm run gen:checklists
 after_success:
  - bash scripts/deploy.sh
